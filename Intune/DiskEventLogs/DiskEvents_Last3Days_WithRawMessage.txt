@@ -1,0 +1,1488 @@
+﻿================================================================================
+TimeCreated : 2026-03-24 22:20:37
+Event ID    : 55
+Level       : 정보
+Provider    : Microsoft-Windows-Kernel-Processor-Power
+RecordId    : 457996
+Computer    : PAP55002588NO02
+MessageRaw  :
+0 그룹의 11 프로세서의 전원 관리 기능 정보:
+
+유휴 상태 유형: Micro Power Engine Plugin(11 상태)
+
+성능 상태 유형: ACPI Collaborative Processor Performance Control
+정격 주파수(MHz): 1300
+최대 성능 백분율: 366
+최소 성능 백분율: 100
+최소 스로틀 백분율: 11
+================================================================================
+TimeCreated : 2026-03-24 22:20:37
+Event ID    : 55
+Level       : 정보
+Provider    : Microsoft-Windows-Kernel-Processor-Power
+RecordId    : 457995
+Computer    : PAP55002588NO02
+MessageRaw  :
+0 그룹의 10 프로세서의 전원 관리 기능 정보:
+
+유휴 상태 유형: Micro Power Engine Plugin(11 상태)
+
+성능 상태 유형: ACPI Collaborative Processor Performance Control
+정격 주파수(MHz): 1300
+최대 성능 백분율: 366
+최소 성능 백분율: 100
+최소 스로틀 백분율: 11
+================================================================================
+TimeCreated : 2026-03-24 22:20:37
+Event ID    : 55
+Level       : 정보
+Provider    : Microsoft-Windows-Kernel-Processor-Power
+RecordId    : 457994
+Computer    : PAP55002588NO02
+MessageRaw  :
+0 그룹의 9 프로세서의 전원 관리 기능 정보:
+
+유휴 상태 유형: Micro Power Engine Plugin(11 상태)
+
+성능 상태 유형: ACPI Collaborative Processor Performance Control
+정격 주파수(MHz): 1300
+최대 성능 백분율: 366
+최소 성능 백분율: 100
+최소 스로틀 백분율: 11
+================================================================================
+TimeCreated : 2026-03-24 22:20:37
+Event ID    : 55
+Level       : 정보
+Provider    : Microsoft-Windows-Kernel-Processor-Power
+RecordId    : 457993
+Computer    : PAP55002588NO02
+MessageRaw  :
+0 그룹의 8 프로세서의 전원 관리 기능 정보:
+
+유휴 상태 유형: Micro Power Engine Plugin(11 상태)
+
+성능 상태 유형: ACPI Collaborative Processor Performance Control
+정격 주파수(MHz): 1300
+최대 성능 백분율: 366
+최소 성능 백분율: 100
+최소 스로틀 백분율: 11
+================================================================================
+TimeCreated : 2026-03-24 22:20:37
+Event ID    : 55
+Level       : 정보
+Provider    : Microsoft-Windows-Kernel-Processor-Power
+RecordId    : 457992
+Computer    : PAP55002588NO02
+MessageRaw  :
+0 그룹의 7 프로세서의 전원 관리 기능 정보:
+
+유휴 상태 유형: Micro Power Engine Plugin(11 상태)
+
+성능 상태 유형: ACPI Collaborative Processor Performance Control
+정격 주파수(MHz): 1300
+최대 성능 백분율: 366
+최소 성능 백분율: 100
+최소 스로틀 백분율: 11
+================================================================================
+TimeCreated : 2026-03-24 22:20:37
+Event ID    : 55
+Level       : 정보
+Provider    : Microsoft-Windows-Kernel-Processor-Power
+RecordId    : 457991
+Computer    : PAP55002588NO02
+MessageRaw  :
+0 그룹의 6 프로세서의 전원 관리 기능 정보:
+
+유휴 상태 유형: Micro Power Engine Plugin(11 상태)
+
+성능 상태 유형: ACPI Collaborative Processor Performance Control
+정격 주파수(MHz): 1300
+최대 성능 백분율: 366
+최소 성능 백분율: 100
+최소 스로틀 백분율: 11
+================================================================================
+TimeCreated : 2026-03-24 22:20:37
+Event ID    : 55
+Level       : 정보
+Provider    : Microsoft-Windows-Kernel-Processor-Power
+RecordId    : 457990
+Computer    : PAP55002588NO02
+MessageRaw  :
+0 그룹의 5 프로세서의 전원 관리 기능 정보:
+
+유휴 상태 유형: Micro Power Engine Plugin(11 상태)
+
+성능 상태 유형: ACPI Collaborative Processor Performance Control
+정격 주파수(MHz): 1300
+최대 성능 백분율: 366
+최소 성능 백분율: 100
+최소 스로틀 백분율: 11
+================================================================================
+TimeCreated : 2026-03-24 22:20:37
+Event ID    : 55
+Level       : 정보
+Provider    : Microsoft-Windows-Kernel-Processor-Power
+RecordId    : 457989
+Computer    : PAP55002588NO02
+MessageRaw  :
+0 그룹의 4 프로세서의 전원 관리 기능 정보:
+
+유휴 상태 유형: Micro Power Engine Plugin(11 상태)
+
+성능 상태 유형: ACPI Collaborative Processor Performance Control
+정격 주파수(MHz): 1300
+최대 성능 백분율: 366
+최소 성능 백분율: 100
+최소 스로틀 백분율: 11
+================================================================================
+TimeCreated : 2026-03-24 22:20:37
+Event ID    : 55
+Level       : 정보
+Provider    : Microsoft-Windows-Kernel-Processor-Power
+RecordId    : 457988
+Computer    : PAP55002588NO02
+MessageRaw  :
+0 그룹의 3 프로세서의 전원 관리 기능 정보:
+
+유휴 상태 유형: Micro Power Engine Plugin(11 상태)
+
+성능 상태 유형: ACPI Collaborative Processor Performance Control
+정격 주파수(MHz): 1300
+최대 성능 백분율: 350
+최소 성능 백분율: 100
+최소 스로틀 백분율: 6
+================================================================================
+TimeCreated : 2026-03-24 22:20:37
+Event ID    : 55
+Level       : 정보
+Provider    : Microsoft-Windows-Kernel-Processor-Power
+RecordId    : 457987
+Computer    : PAP55002588NO02
+MessageRaw  :
+0 그룹의 2 프로세서의 전원 관리 기능 정보:
+
+유휴 상태 유형: Micro Power Engine Plugin(11 상태)
+
+성능 상태 유형: ACPI Collaborative Processor Performance Control
+정격 주파수(MHz): 1300
+최대 성능 백분율: 350
+최소 성능 백분율: 100
+최소 스로틀 백분율: 6
+================================================================================
+TimeCreated : 2026-03-24 22:20:37
+Event ID    : 55
+Level       : 정보
+Provider    : Microsoft-Windows-Kernel-Processor-Power
+RecordId    : 457986
+Computer    : PAP55002588NO02
+MessageRaw  :
+0 그룹의 1 프로세서의 전원 관리 기능 정보:
+
+유휴 상태 유형: Micro Power Engine Plugin(11 상태)
+
+성능 상태 유형: ACPI Collaborative Processor Performance Control
+정격 주파수(MHz): 1300
+최대 성능 백분율: 350
+최소 성능 백분율: 100
+최소 스로틀 백분율: 6
+================================================================================
+TimeCreated : 2026-03-24 22:20:37
+Event ID    : 55
+Level       : 정보
+Provider    : Microsoft-Windows-Kernel-Processor-Power
+RecordId    : 457985
+Computer    : PAP55002588NO02
+MessageRaw  :
+0 그룹의 0 프로세서의 전원 관리 기능 정보:
+
+유휴 상태 유형: Micro Power Engine Plugin(11 상태)
+
+성능 상태 유형: ACPI Collaborative Processor Performance Control
+정격 주파수(MHz): 1300
+최대 성능 백분율: 350
+최소 성능 백분율: 37
+최소 스로틀 백분율: 6
+================================================================================
+TimeCreated : 2026-03-24 22:20:35
+Event ID    : 98
+Level       : 정보
+Provider    : Microsoft-Windows-Ntfs
+RecordId    : 457981
+Computer    : PAP55002588NO02
+MessageRaw  :
+볼륨 \\?\Volume{986a9eda-24e9-480f-aa08-8b167e755072} (\Device\HarddiskVolume4) 정상입니다. 작업이 필요 없습니다.
+================================================================================
+TimeCreated : 2026-03-24 22:20:29
+Event ID    : 98
+Level       : 정보
+Provider    : Microsoft-Windows-Ntfs
+RecordId    : 457950
+Computer    : PAP55002588NO02
+MessageRaw  :
+볼륨 C: (\Device\HarddiskVolume3) 정상입니다. 작업이 필요 없습니다.
+================================================================================
+TimeCreated : 2026-03-24 22:20:26
+Event ID    : 129
+Level       : 정보
+Provider    : Microsoft-Windows-Hyper-V-Hypervisor
+RecordId    : 457936
+Computer    : PAP55002588NO02
+MessageRaw  :
+하이퍼바이저가 I/O remapping.
+
+하드웨어를 초기화했습니다. true
+하드웨어 사용: true
+정책: 0x0
+사용 기능: 0x43
+내부 정보: 0x0
+문제: 0x0
+추가 정보: 0x0
+================================================================================
+TimeCreated : 2026-03-24 22:20:26
+Event ID    : 153
+Level       : 정보
+Provider    : Microsoft-Windows-Kernel-Boot
+RecordId    : 457926
+Computer    : PAP55002588NO02
+MessageRaw  :
+가상화 기반 보안(정책: VBS Enabled,VSM Required,Hvci,Boot Chain Signer Soft Enforced)은 enabled due to VBS registry configuration입니다.
+================================================================================
+TimeCreated : 2026-03-24 19:31:37
+Event ID    : 55
+Level       : 정보
+Provider    : Microsoft-Windows-Kernel-Processor-Power
+RecordId    : 457602
+Computer    : PAP55002588NO02
+MessageRaw  :
+0 그룹의 11 프로세서의 전원 관리 기능 정보:
+
+유휴 상태 유형: Micro Power Engine Plugin(11 상태)
+
+성능 상태 유형: ACPI Collaborative Processor Performance Control
+정격 주파수(MHz): 1300
+최대 성능 백분율: 366
+최소 성능 백분율: 100
+최소 스로틀 백분율: 11
+================================================================================
+TimeCreated : 2026-03-24 19:31:37
+Event ID    : 55
+Level       : 정보
+Provider    : Microsoft-Windows-Kernel-Processor-Power
+RecordId    : 457601
+Computer    : PAP55002588NO02
+MessageRaw  :
+0 그룹의 10 프로세서의 전원 관리 기능 정보:
+
+유휴 상태 유형: Micro Power Engine Plugin(11 상태)
+
+성능 상태 유형: ACPI Collaborative Processor Performance Control
+정격 주파수(MHz): 1300
+최대 성능 백분율: 366
+최소 성능 백분율: 100
+최소 스로틀 백분율: 11
+================================================================================
+TimeCreated : 2026-03-24 19:31:36
+Event ID    : 55
+Level       : 정보
+Provider    : Microsoft-Windows-Kernel-Processor-Power
+RecordId    : 457600
+Computer    : PAP55002588NO02
+MessageRaw  :
+0 그룹의 9 프로세서의 전원 관리 기능 정보:
+
+유휴 상태 유형: Micro Power Engine Plugin(11 상태)
+
+성능 상태 유형: ACPI Collaborative Processor Performance Control
+정격 주파수(MHz): 1300
+최대 성능 백분율: 366
+최소 성능 백분율: 100
+최소 스로틀 백분율: 11
+================================================================================
+TimeCreated : 2026-03-24 19:31:36
+Event ID    : 55
+Level       : 정보
+Provider    : Microsoft-Windows-Kernel-Processor-Power
+RecordId    : 457599
+Computer    : PAP55002588NO02
+MessageRaw  :
+0 그룹의 8 프로세서의 전원 관리 기능 정보:
+
+유휴 상태 유형: Micro Power Engine Plugin(11 상태)
+
+성능 상태 유형: ACPI Collaborative Processor Performance Control
+정격 주파수(MHz): 1300
+최대 성능 백분율: 366
+최소 성능 백분율: 100
+최소 스로틀 백분율: 11
+================================================================================
+TimeCreated : 2026-03-24 19:31:36
+Event ID    : 55
+Level       : 정보
+Provider    : Microsoft-Windows-Kernel-Processor-Power
+RecordId    : 457598
+Computer    : PAP55002588NO02
+MessageRaw  :
+0 그룹의 7 프로세서의 전원 관리 기능 정보:
+
+유휴 상태 유형: Micro Power Engine Plugin(11 상태)
+
+성능 상태 유형: ACPI Collaborative Processor Performance Control
+정격 주파수(MHz): 1300
+최대 성능 백분율: 366
+최소 성능 백분율: 100
+최소 스로틀 백분율: 11
+================================================================================
+TimeCreated : 2026-03-24 19:31:36
+Event ID    : 55
+Level       : 정보
+Provider    : Microsoft-Windows-Kernel-Processor-Power
+RecordId    : 457597
+Computer    : PAP55002588NO02
+MessageRaw  :
+0 그룹의 6 프로세서의 전원 관리 기능 정보:
+
+유휴 상태 유형: Micro Power Engine Plugin(11 상태)
+
+성능 상태 유형: ACPI Collaborative Processor Performance Control
+정격 주파수(MHz): 1300
+최대 성능 백분율: 366
+최소 성능 백분율: 100
+최소 스로틀 백분율: 11
+================================================================================
+TimeCreated : 2026-03-24 19:31:36
+Event ID    : 55
+Level       : 정보
+Provider    : Microsoft-Windows-Kernel-Processor-Power
+RecordId    : 457596
+Computer    : PAP55002588NO02
+MessageRaw  :
+0 그룹의 5 프로세서의 전원 관리 기능 정보:
+
+유휴 상태 유형: Micro Power Engine Plugin(11 상태)
+
+성능 상태 유형: ACPI Collaborative Processor Performance Control
+정격 주파수(MHz): 1300
+최대 성능 백분율: 366
+최소 성능 백분율: 100
+최소 스로틀 백분율: 11
+================================================================================
+TimeCreated : 2026-03-24 19:31:36
+Event ID    : 55
+Level       : 정보
+Provider    : Microsoft-Windows-Kernel-Processor-Power
+RecordId    : 457595
+Computer    : PAP55002588NO02
+MessageRaw  :
+0 그룹의 4 프로세서의 전원 관리 기능 정보:
+
+유휴 상태 유형: Micro Power Engine Plugin(11 상태)
+
+성능 상태 유형: ACPI Collaborative Processor Performance Control
+정격 주파수(MHz): 1300
+최대 성능 백분율: 366
+최소 성능 백분율: 100
+최소 스로틀 백분율: 11
+================================================================================
+TimeCreated : 2026-03-24 19:31:36
+Event ID    : 55
+Level       : 정보
+Provider    : Microsoft-Windows-Kernel-Processor-Power
+RecordId    : 457594
+Computer    : PAP55002588NO02
+MessageRaw  :
+0 그룹의 3 프로세서의 전원 관리 기능 정보:
+
+유휴 상태 유형: Micro Power Engine Plugin(11 상태)
+
+성능 상태 유형: ACPI Collaborative Processor Performance Control
+정격 주파수(MHz): 1300
+최대 성능 백분율: 350
+최소 성능 백분율: 100
+최소 스로틀 백분율: 6
+================================================================================
+TimeCreated : 2026-03-24 19:31:36
+Event ID    : 55
+Level       : 정보
+Provider    : Microsoft-Windows-Kernel-Processor-Power
+RecordId    : 457593
+Computer    : PAP55002588NO02
+MessageRaw  :
+0 그룹의 2 프로세서의 전원 관리 기능 정보:
+
+유휴 상태 유형: Micro Power Engine Plugin(11 상태)
+
+성능 상태 유형: ACPI Collaborative Processor Performance Control
+정격 주파수(MHz): 1300
+최대 성능 백분율: 350
+최소 성능 백분율: 100
+최소 스로틀 백분율: 6
+================================================================================
+TimeCreated : 2026-03-24 19:31:36
+Event ID    : 55
+Level       : 정보
+Provider    : Microsoft-Windows-Kernel-Processor-Power
+RecordId    : 457592
+Computer    : PAP55002588NO02
+MessageRaw  :
+0 그룹의 1 프로세서의 전원 관리 기능 정보:
+
+유휴 상태 유형: Micro Power Engine Plugin(11 상태)
+
+성능 상태 유형: ACPI Collaborative Processor Performance Control
+정격 주파수(MHz): 1300
+최대 성능 백분율: 350
+최소 성능 백분율: 100
+최소 스로틀 백분율: 6
+================================================================================
+TimeCreated : 2026-03-24 19:31:36
+Event ID    : 55
+Level       : 정보
+Provider    : Microsoft-Windows-Kernel-Processor-Power
+RecordId    : 457591
+Computer    : PAP55002588NO02
+MessageRaw  :
+0 그룹의 0 프로세서의 전원 관리 기능 정보:
+
+유휴 상태 유형: Micro Power Engine Plugin(11 상태)
+
+성능 상태 유형: ACPI Collaborative Processor Performance Control
+정격 주파수(MHz): 1300
+최대 성능 백분율: 350
+최소 성능 백분율: 37
+최소 스로틀 백분율: 6
+================================================================================
+TimeCreated : 2026-03-24 19:31:33
+Event ID    : 98
+Level       : 정보
+Provider    : Microsoft-Windows-Ntfs
+RecordId    : 457587
+Computer    : PAP55002588NO02
+MessageRaw  :
+볼륨 \\?\Volume{986a9eda-24e9-480f-aa08-8b167e755072} (\Device\HarddiskVolume4) 정상입니다. 작업이 필요 없습니다.
+================================================================================
+TimeCreated : 2026-03-24 19:31:32
+Event ID    : 98
+Level       : 정보
+Provider    : Microsoft-Windows-Ntfs
+RecordId    : 457556
+Computer    : PAP55002588NO02
+MessageRaw  :
+볼륨 C: (\Device\HarddiskVolume3) 정상입니다. 작업이 필요 없습니다.
+================================================================================
+TimeCreated : 2026-03-24 19:31:30
+Event ID    : 129
+Level       : 정보
+Provider    : Microsoft-Windows-Hyper-V-Hypervisor
+RecordId    : 457542
+Computer    : PAP55002588NO02
+MessageRaw  :
+하이퍼바이저가 I/O remapping.
+
+하드웨어를 초기화했습니다. true
+하드웨어 사용: true
+정책: 0x0
+사용 기능: 0x43
+내부 정보: 0x0
+문제: 0x0
+추가 정보: 0x0
+================================================================================
+TimeCreated : 2026-03-24 19:31:30
+Event ID    : 153
+Level       : 정보
+Provider    : Microsoft-Windows-Kernel-Boot
+RecordId    : 457532
+Computer    : PAP55002588NO02
+MessageRaw  :
+가상화 기반 보안(정책: VBS Enabled,VSM Required,Hvci,Boot Chain Signer Soft Enforced)은 enabled due to VBS registry configuration입니다.
+================================================================================
+TimeCreated : 2026-03-24 10:15:56
+Event ID    : 55
+Level       : 정보
+Provider    : Microsoft-Windows-Kernel-Processor-Power
+RecordId    : 456676
+Computer    : PAP55002588NO02
+MessageRaw  :
+0 그룹의 11 프로세서의 전원 관리 기능 정보:
+
+유휴 상태 유형: Micro Power Engine Plugin(11 상태)
+
+성능 상태 유형: ACPI Collaborative Processor Performance Control
+정격 주파수(MHz): 1300
+최대 성능 백분율: 366
+최소 성능 백분율: 100
+최소 스로틀 백분율: 11
+================================================================================
+TimeCreated : 2026-03-24 10:15:55
+Event ID    : 55
+Level       : 정보
+Provider    : Microsoft-Windows-Kernel-Processor-Power
+RecordId    : 456675
+Computer    : PAP55002588NO02
+MessageRaw  :
+0 그룹의 10 프로세서의 전원 관리 기능 정보:
+
+유휴 상태 유형: Micro Power Engine Plugin(11 상태)
+
+성능 상태 유형: ACPI Collaborative Processor Performance Control
+정격 주파수(MHz): 1300
+최대 성능 백분율: 366
+최소 성능 백분율: 100
+최소 스로틀 백분율: 11
+================================================================================
+TimeCreated : 2026-03-24 10:15:55
+Event ID    : 55
+Level       : 정보
+Provider    : Microsoft-Windows-Kernel-Processor-Power
+RecordId    : 456674
+Computer    : PAP55002588NO02
+MessageRaw  :
+0 그룹의 9 프로세서의 전원 관리 기능 정보:
+
+유휴 상태 유형: Micro Power Engine Plugin(11 상태)
+
+성능 상태 유형: ACPI Collaborative Processor Performance Control
+정격 주파수(MHz): 1300
+최대 성능 백분율: 366
+최소 성능 백분율: 100
+최소 스로틀 백분율: 11
+================================================================================
+TimeCreated : 2026-03-24 10:15:55
+Event ID    : 55
+Level       : 정보
+Provider    : Microsoft-Windows-Kernel-Processor-Power
+RecordId    : 456673
+Computer    : PAP55002588NO02
+MessageRaw  :
+0 그룹의 8 프로세서의 전원 관리 기능 정보:
+
+유휴 상태 유형: Micro Power Engine Plugin(11 상태)
+
+성능 상태 유형: ACPI Collaborative Processor Performance Control
+정격 주파수(MHz): 1300
+최대 성능 백분율: 366
+최소 성능 백분율: 100
+최소 스로틀 백분율: 11
+================================================================================
+TimeCreated : 2026-03-24 10:15:55
+Event ID    : 55
+Level       : 정보
+Provider    : Microsoft-Windows-Kernel-Processor-Power
+RecordId    : 456672
+Computer    : PAP55002588NO02
+MessageRaw  :
+0 그룹의 7 프로세서의 전원 관리 기능 정보:
+
+유휴 상태 유형: Micro Power Engine Plugin(11 상태)
+
+성능 상태 유형: ACPI Collaborative Processor Performance Control
+정격 주파수(MHz): 1300
+최대 성능 백분율: 366
+최소 성능 백분율: 100
+최소 스로틀 백분율: 11
+================================================================================
+TimeCreated : 2026-03-24 10:15:55
+Event ID    : 55
+Level       : 정보
+Provider    : Microsoft-Windows-Kernel-Processor-Power
+RecordId    : 456671
+Computer    : PAP55002588NO02
+MessageRaw  :
+0 그룹의 6 프로세서의 전원 관리 기능 정보:
+
+유휴 상태 유형: Micro Power Engine Plugin(11 상태)
+
+성능 상태 유형: ACPI Collaborative Processor Performance Control
+정격 주파수(MHz): 1300
+최대 성능 백분율: 366
+최소 성능 백분율: 100
+최소 스로틀 백분율: 11
+================================================================================
+TimeCreated : 2026-03-24 10:15:55
+Event ID    : 55
+Level       : 정보
+Provider    : Microsoft-Windows-Kernel-Processor-Power
+RecordId    : 456670
+Computer    : PAP55002588NO02
+MessageRaw  :
+0 그룹의 5 프로세서의 전원 관리 기능 정보:
+
+유휴 상태 유형: Micro Power Engine Plugin(11 상태)
+
+성능 상태 유형: ACPI Collaborative Processor Performance Control
+정격 주파수(MHz): 1300
+최대 성능 백분율: 366
+최소 성능 백분율: 100
+최소 스로틀 백분율: 11
+================================================================================
+TimeCreated : 2026-03-24 10:15:55
+Event ID    : 55
+Level       : 정보
+Provider    : Microsoft-Windows-Kernel-Processor-Power
+RecordId    : 456669
+Computer    : PAP55002588NO02
+MessageRaw  :
+0 그룹의 4 프로세서의 전원 관리 기능 정보:
+
+유휴 상태 유형: Micro Power Engine Plugin(11 상태)
+
+성능 상태 유형: ACPI Collaborative Processor Performance Control
+정격 주파수(MHz): 1300
+최대 성능 백분율: 366
+최소 성능 백분율: 100
+최소 스로틀 백분율: 11
+================================================================================
+TimeCreated : 2026-03-24 10:15:55
+Event ID    : 55
+Level       : 정보
+Provider    : Microsoft-Windows-Kernel-Processor-Power
+RecordId    : 456668
+Computer    : PAP55002588NO02
+MessageRaw  :
+0 그룹의 3 프로세서의 전원 관리 기능 정보:
+
+유휴 상태 유형: Micro Power Engine Plugin(11 상태)
+
+성능 상태 유형: ACPI Collaborative Processor Performance Control
+정격 주파수(MHz): 1300
+최대 성능 백분율: 350
+최소 성능 백분율: 100
+최소 스로틀 백분율: 6
+================================================================================
+TimeCreated : 2026-03-24 10:15:55
+Event ID    : 55
+Level       : 정보
+Provider    : Microsoft-Windows-Kernel-Processor-Power
+RecordId    : 456667
+Computer    : PAP55002588NO02
+MessageRaw  :
+0 그룹의 2 프로세서의 전원 관리 기능 정보:
+
+유휴 상태 유형: Micro Power Engine Plugin(11 상태)
+
+성능 상태 유형: ACPI Collaborative Processor Performance Control
+정격 주파수(MHz): 1300
+최대 성능 백분율: 350
+최소 성능 백분율: 100
+최소 스로틀 백분율: 6
+================================================================================
+TimeCreated : 2026-03-24 10:15:55
+Event ID    : 55
+Level       : 정보
+Provider    : Microsoft-Windows-Kernel-Processor-Power
+RecordId    : 456666
+Computer    : PAP55002588NO02
+MessageRaw  :
+0 그룹의 1 프로세서의 전원 관리 기능 정보:
+
+유휴 상태 유형: Micro Power Engine Plugin(11 상태)
+
+성능 상태 유형: ACPI Collaborative Processor Performance Control
+정격 주파수(MHz): 1300
+최대 성능 백분율: 350
+최소 성능 백분율: 100
+최소 스로틀 백분율: 6
+================================================================================
+TimeCreated : 2026-03-24 10:15:55
+Event ID    : 55
+Level       : 정보
+Provider    : Microsoft-Windows-Kernel-Processor-Power
+RecordId    : 456665
+Computer    : PAP55002588NO02
+MessageRaw  :
+0 그룹의 0 프로세서의 전원 관리 기능 정보:
+
+유휴 상태 유형: Micro Power Engine Plugin(11 상태)
+
+성능 상태 유형: ACPI Collaborative Processor Performance Control
+정격 주파수(MHz): 1300
+최대 성능 백분율: 350
+최소 성능 백분율: 37
+최소 스로틀 백분율: 6
+================================================================================
+TimeCreated : 2026-03-24 10:15:53
+Event ID    : 98
+Level       : 정보
+Provider    : Microsoft-Windows-Ntfs
+RecordId    : 456661
+Computer    : PAP55002588NO02
+MessageRaw  :
+볼륨 \\?\Volume{986a9eda-24e9-480f-aa08-8b167e755072} (\Device\HarddiskVolume4) 정상입니다. 작업이 필요 없습니다.
+================================================================================
+TimeCreated : 2026-03-24 10:15:48
+Event ID    : 98
+Level       : 정보
+Provider    : Microsoft-Windows-Ntfs
+RecordId    : 456630
+Computer    : PAP55002588NO02
+MessageRaw  :
+볼륨 C: (\Device\HarddiskVolume3) 정상입니다. 작업이 필요 없습니다.
+================================================================================
+TimeCreated : 2026-03-24 10:15:46
+Event ID    : 129
+Level       : 정보
+Provider    : Microsoft-Windows-Hyper-V-Hypervisor
+RecordId    : 456616
+Computer    : PAP55002588NO02
+MessageRaw  :
+하이퍼바이저가 I/O remapping.
+
+하드웨어를 초기화했습니다. true
+하드웨어 사용: true
+정책: 0x0
+사용 기능: 0x43
+내부 정보: 0x0
+문제: 0x0
+추가 정보: 0x0
+================================================================================
+TimeCreated : 2026-03-24 10:15:46
+Event ID    : 153
+Level       : 정보
+Provider    : Microsoft-Windows-Kernel-Boot
+RecordId    : 456606
+Computer    : PAP55002588NO02
+MessageRaw  :
+가상화 기반 보안(정책: VBS Enabled,VSM Required,Hvci,Boot Chain Signer Soft Enforced)은 enabled due to VBS registry configuration입니다.
+================================================================================
+TimeCreated : 2026-03-24 08:23:44
+Event ID    : 55
+Level       : 정보
+Provider    : Microsoft-Windows-Kernel-Processor-Power
+RecordId    : 456306
+Computer    : PAP55002588NO02
+MessageRaw  :
+0 그룹의 11 프로세서의 전원 관리 기능 정보:
+
+유휴 상태 유형: Micro Power Engine Plugin(11 상태)
+
+성능 상태 유형: ACPI Collaborative Processor Performance Control
+정격 주파수(MHz): 1300
+최대 성능 백분율: 366
+최소 성능 백분율: 100
+최소 스로틀 백분율: 11
+================================================================================
+TimeCreated : 2026-03-24 08:23:44
+Event ID    : 55
+Level       : 정보
+Provider    : Microsoft-Windows-Kernel-Processor-Power
+RecordId    : 456305
+Computer    : PAP55002588NO02
+MessageRaw  :
+0 그룹의 10 프로세서의 전원 관리 기능 정보:
+
+유휴 상태 유형: Micro Power Engine Plugin(11 상태)
+
+성능 상태 유형: ACPI Collaborative Processor Performance Control
+정격 주파수(MHz): 1300
+최대 성능 백분율: 366
+최소 성능 백분율: 100
+최소 스로틀 백분율: 11
+================================================================================
+TimeCreated : 2026-03-24 08:23:44
+Event ID    : 55
+Level       : 정보
+Provider    : Microsoft-Windows-Kernel-Processor-Power
+RecordId    : 456304
+Computer    : PAP55002588NO02
+MessageRaw  :
+0 그룹의 9 프로세서의 전원 관리 기능 정보:
+
+유휴 상태 유형: Micro Power Engine Plugin(11 상태)
+
+성능 상태 유형: ACPI Collaborative Processor Performance Control
+정격 주파수(MHz): 1300
+최대 성능 백분율: 366
+최소 성능 백분율: 100
+최소 스로틀 백분율: 11
+================================================================================
+TimeCreated : 2026-03-24 08:23:44
+Event ID    : 55
+Level       : 정보
+Provider    : Microsoft-Windows-Kernel-Processor-Power
+RecordId    : 456303
+Computer    : PAP55002588NO02
+MessageRaw  :
+0 그룹의 8 프로세서의 전원 관리 기능 정보:
+
+유휴 상태 유형: Micro Power Engine Plugin(11 상태)
+
+성능 상태 유형: ACPI Collaborative Processor Performance Control
+정격 주파수(MHz): 1300
+최대 성능 백분율: 366
+최소 성능 백분율: 100
+최소 스로틀 백분율: 11
+================================================================================
+TimeCreated : 2026-03-24 08:23:44
+Event ID    : 55
+Level       : 정보
+Provider    : Microsoft-Windows-Kernel-Processor-Power
+RecordId    : 456302
+Computer    : PAP55002588NO02
+MessageRaw  :
+0 그룹의 7 프로세서의 전원 관리 기능 정보:
+
+유휴 상태 유형: Micro Power Engine Plugin(11 상태)
+
+성능 상태 유형: ACPI Collaborative Processor Performance Control
+정격 주파수(MHz): 1300
+최대 성능 백분율: 366
+최소 성능 백분율: 100
+최소 스로틀 백분율: 11
+================================================================================
+TimeCreated : 2026-03-24 08:23:44
+Event ID    : 55
+Level       : 정보
+Provider    : Microsoft-Windows-Kernel-Processor-Power
+RecordId    : 456301
+Computer    : PAP55002588NO02
+MessageRaw  :
+0 그룹의 6 프로세서의 전원 관리 기능 정보:
+
+유휴 상태 유형: Micro Power Engine Plugin(11 상태)
+
+성능 상태 유형: ACPI Collaborative Processor Performance Control
+정격 주파수(MHz): 1300
+최대 성능 백분율: 366
+최소 성능 백분율: 100
+최소 스로틀 백분율: 11
+================================================================================
+TimeCreated : 2026-03-24 08:23:44
+Event ID    : 55
+Level       : 정보
+Provider    : Microsoft-Windows-Kernel-Processor-Power
+RecordId    : 456300
+Computer    : PAP55002588NO02
+MessageRaw  :
+0 그룹의 5 프로세서의 전원 관리 기능 정보:
+
+유휴 상태 유형: Micro Power Engine Plugin(11 상태)
+
+성능 상태 유형: ACPI Collaborative Processor Performance Control
+정격 주파수(MHz): 1300
+최대 성능 백분율: 366
+최소 성능 백분율: 100
+최소 스로틀 백분율: 11
+================================================================================
+TimeCreated : 2026-03-24 08:23:44
+Event ID    : 55
+Level       : 정보
+Provider    : Microsoft-Windows-Kernel-Processor-Power
+RecordId    : 456299
+Computer    : PAP55002588NO02
+MessageRaw  :
+0 그룹의 4 프로세서의 전원 관리 기능 정보:
+
+유휴 상태 유형: Micro Power Engine Plugin(11 상태)
+
+성능 상태 유형: ACPI Collaborative Processor Performance Control
+정격 주파수(MHz): 1300
+최대 성능 백분율: 366
+최소 성능 백분율: 100
+최소 스로틀 백분율: 11
+================================================================================
+TimeCreated : 2026-03-24 08:23:44
+Event ID    : 55
+Level       : 정보
+Provider    : Microsoft-Windows-Kernel-Processor-Power
+RecordId    : 456298
+Computer    : PAP55002588NO02
+MessageRaw  :
+0 그룹의 3 프로세서의 전원 관리 기능 정보:
+
+유휴 상태 유형: Micro Power Engine Plugin(11 상태)
+
+성능 상태 유형: ACPI Collaborative Processor Performance Control
+정격 주파수(MHz): 1300
+최대 성능 백분율: 350
+최소 성능 백분율: 100
+최소 스로틀 백분율: 6
+================================================================================
+TimeCreated : 2026-03-24 08:23:44
+Event ID    : 55
+Level       : 정보
+Provider    : Microsoft-Windows-Kernel-Processor-Power
+RecordId    : 456297
+Computer    : PAP55002588NO02
+MessageRaw  :
+0 그룹의 2 프로세서의 전원 관리 기능 정보:
+
+유휴 상태 유형: Micro Power Engine Plugin(11 상태)
+
+성능 상태 유형: ACPI Collaborative Processor Performance Control
+정격 주파수(MHz): 1300
+최대 성능 백분율: 350
+최소 성능 백분율: 100
+최소 스로틀 백분율: 6
+================================================================================
+TimeCreated : 2026-03-24 08:23:44
+Event ID    : 55
+Level       : 정보
+Provider    : Microsoft-Windows-Kernel-Processor-Power
+RecordId    : 456296
+Computer    : PAP55002588NO02
+MessageRaw  :
+0 그룹의 1 프로세서의 전원 관리 기능 정보:
+
+유휴 상태 유형: Micro Power Engine Plugin(11 상태)
+
+성능 상태 유형: ACPI Collaborative Processor Performance Control
+정격 주파수(MHz): 1300
+최대 성능 백분율: 350
+최소 성능 백분율: 100
+최소 스로틀 백분율: 6
+================================================================================
+TimeCreated : 2026-03-24 08:23:44
+Event ID    : 55
+Level       : 정보
+Provider    : Microsoft-Windows-Kernel-Processor-Power
+RecordId    : 456295
+Computer    : PAP55002588NO02
+MessageRaw  :
+0 그룹의 0 프로세서의 전원 관리 기능 정보:
+
+유휴 상태 유형: Micro Power Engine Plugin(11 상태)
+
+성능 상태 유형: ACPI Collaborative Processor Performance Control
+정격 주파수(MHz): 1300
+최대 성능 백분율: 350
+최소 성능 백분율: 37
+최소 스로틀 백분율: 6
+================================================================================
+TimeCreated : 2026-03-24 08:23:41
+Event ID    : 98
+Level       : 정보
+Provider    : Microsoft-Windows-Ntfs
+RecordId    : 456291
+Computer    : PAP55002588NO02
+MessageRaw  :
+볼륨 \\?\Volume{986a9eda-24e9-480f-aa08-8b167e755072} (\Device\HarddiskVolume4) 정상입니다. 작업이 필요 없습니다.
+================================================================================
+TimeCreated : 2026-03-24 08:23:40
+Event ID    : 98
+Level       : 정보
+Provider    : Microsoft-Windows-Ntfs
+RecordId    : 456260
+Computer    : PAP55002588NO02
+MessageRaw  :
+볼륨 C: (\Device\HarddiskVolume3) 정상입니다. 작업이 필요 없습니다.
+================================================================================
+TimeCreated : 2026-03-24 08:23:38
+Event ID    : 129
+Level       : 정보
+Provider    : Microsoft-Windows-Hyper-V-Hypervisor
+RecordId    : 456246
+Computer    : PAP55002588NO02
+MessageRaw  :
+하이퍼바이저가 I/O remapping.
+
+하드웨어를 초기화했습니다. true
+하드웨어 사용: true
+정책: 0x0
+사용 기능: 0x43
+내부 정보: 0x0
+문제: 0x0
+추가 정보: 0x0
+================================================================================
+TimeCreated : 2026-03-24 08:23:38
+Event ID    : 153
+Level       : 정보
+Provider    : Microsoft-Windows-Kernel-Boot
+RecordId    : 456236
+Computer    : PAP55002588NO02
+MessageRaw  :
+가상화 기반 보안(정책: VBS Enabled,VSM Required,Hvci,Boot Chain Signer Soft Enforced)은 enabled due to VBS registry configuration입니다.
+================================================================================
+TimeCreated : 2026-03-23 17:24:59
+Event ID    : 55
+Level       : 정보
+Provider    : Microsoft-Windows-Kernel-Processor-Power
+RecordId    : 456108
+Computer    : PAP55002588NO02
+MessageRaw  :
+0 그룹의 11 프로세서의 전원 관리 기능 정보:
+
+유휴 상태 유형: Micro Power Engine Plugin(11 상태)
+
+성능 상태 유형: ACPI Collaborative Processor Performance Control
+정격 주파수(MHz): 1300
+최대 성능 백분율: 366
+최소 성능 백분율: 100
+최소 스로틀 백분율: 11
+================================================================================
+TimeCreated : 2026-03-23 17:24:59
+Event ID    : 55
+Level       : 정보
+Provider    : Microsoft-Windows-Kernel-Processor-Power
+RecordId    : 456107
+Computer    : PAP55002588NO02
+MessageRaw  :
+0 그룹의 10 프로세서의 전원 관리 기능 정보:
+
+유휴 상태 유형: Micro Power Engine Plugin(11 상태)
+
+성능 상태 유형: ACPI Collaborative Processor Performance Control
+정격 주파수(MHz): 1300
+최대 성능 백분율: 366
+최소 성능 백분율: 100
+최소 스로틀 백분율: 11
+================================================================================
+TimeCreated : 2026-03-23 17:24:59
+Event ID    : 55
+Level       : 정보
+Provider    : Microsoft-Windows-Kernel-Processor-Power
+RecordId    : 456106
+Computer    : PAP55002588NO02
+MessageRaw  :
+0 그룹의 9 프로세서의 전원 관리 기능 정보:
+
+유휴 상태 유형: Micro Power Engine Plugin(11 상태)
+
+성능 상태 유형: ACPI Collaborative Processor Performance Control
+정격 주파수(MHz): 1300
+최대 성능 백분율: 366
+최소 성능 백분율: 100
+최소 스로틀 백분율: 11
+================================================================================
+TimeCreated : 2026-03-23 17:24:59
+Event ID    : 55
+Level       : 정보
+Provider    : Microsoft-Windows-Kernel-Processor-Power
+RecordId    : 456105
+Computer    : PAP55002588NO02
+MessageRaw  :
+0 그룹의 8 프로세서의 전원 관리 기능 정보:
+
+유휴 상태 유형: Micro Power Engine Plugin(11 상태)
+
+성능 상태 유형: ACPI Collaborative Processor Performance Control
+정격 주파수(MHz): 1300
+최대 성능 백분율: 366
+최소 성능 백분율: 100
+최소 스로틀 백분율: 11
+================================================================================
+TimeCreated : 2026-03-23 17:24:59
+Event ID    : 55
+Level       : 정보
+Provider    : Microsoft-Windows-Kernel-Processor-Power
+RecordId    : 456104
+Computer    : PAP55002588NO02
+MessageRaw  :
+0 그룹의 7 프로세서의 전원 관리 기능 정보:
+
+유휴 상태 유형: Micro Power Engine Plugin(11 상태)
+
+성능 상태 유형: ACPI Collaborative Processor Performance Control
+정격 주파수(MHz): 1300
+최대 성능 백분율: 366
+최소 성능 백분율: 100
+최소 스로틀 백분율: 11
+================================================================================
+TimeCreated : 2026-03-23 17:24:59
+Event ID    : 55
+Level       : 정보
+Provider    : Microsoft-Windows-Kernel-Processor-Power
+RecordId    : 456103
+Computer    : PAP55002588NO02
+MessageRaw  :
+0 그룹의 6 프로세서의 전원 관리 기능 정보:
+
+유휴 상태 유형: Micro Power Engine Plugin(11 상태)
+
+성능 상태 유형: ACPI Collaborative Processor Performance Control
+정격 주파수(MHz): 1300
+최대 성능 백분율: 366
+최소 성능 백분율: 100
+최소 스로틀 백분율: 11
+================================================================================
+TimeCreated : 2026-03-23 17:24:59
+Event ID    : 55
+Level       : 정보
+Provider    : Microsoft-Windows-Kernel-Processor-Power
+RecordId    : 456102
+Computer    : PAP55002588NO02
+MessageRaw  :
+0 그룹의 5 프로세서의 전원 관리 기능 정보:
+
+유휴 상태 유형: Micro Power Engine Plugin(11 상태)
+
+성능 상태 유형: ACPI Collaborative Processor Performance Control
+정격 주파수(MHz): 1300
+최대 성능 백분율: 366
+최소 성능 백분율: 100
+최소 스로틀 백분율: 11
+================================================================================
+TimeCreated : 2026-03-23 17:24:59
+Event ID    : 55
+Level       : 정보
+Provider    : Microsoft-Windows-Kernel-Processor-Power
+RecordId    : 456101
+Computer    : PAP55002588NO02
+MessageRaw  :
+0 그룹의 4 프로세서의 전원 관리 기능 정보:
+
+유휴 상태 유형: Micro Power Engine Plugin(11 상태)
+
+성능 상태 유형: ACPI Collaborative Processor Performance Control
+정격 주파수(MHz): 1300
+최대 성능 백분율: 366
+최소 성능 백분율: 100
+최소 스로틀 백분율: 11
+================================================================================
+TimeCreated : 2026-03-23 17:24:59
+Event ID    : 55
+Level       : 정보
+Provider    : Microsoft-Windows-Kernel-Processor-Power
+RecordId    : 456100
+Computer    : PAP55002588NO02
+MessageRaw  :
+0 그룹의 3 프로세서의 전원 관리 기능 정보:
+
+유휴 상태 유형: Micro Power Engine Plugin(11 상태)
+
+성능 상태 유형: ACPI Collaborative Processor Performance Control
+정격 주파수(MHz): 1300
+최대 성능 백분율: 350
+최소 성능 백분율: 100
+최소 스로틀 백분율: 6
+================================================================================
+TimeCreated : 2026-03-23 17:24:59
+Event ID    : 55
+Level       : 정보
+Provider    : Microsoft-Windows-Kernel-Processor-Power
+RecordId    : 456099
+Computer    : PAP55002588NO02
+MessageRaw  :
+0 그룹의 2 프로세서의 전원 관리 기능 정보:
+
+유휴 상태 유형: Micro Power Engine Plugin(11 상태)
+
+성능 상태 유형: ACPI Collaborative Processor Performance Control
+정격 주파수(MHz): 1300
+최대 성능 백분율: 350
+최소 성능 백분율: 100
+최소 스로틀 백분율: 6
+================================================================================
+TimeCreated : 2026-03-23 17:24:59
+Event ID    : 55
+Level       : 정보
+Provider    : Microsoft-Windows-Kernel-Processor-Power
+RecordId    : 456098
+Computer    : PAP55002588NO02
+MessageRaw  :
+0 그룹의 1 프로세서의 전원 관리 기능 정보:
+
+유휴 상태 유형: Micro Power Engine Plugin(11 상태)
+
+성능 상태 유형: ACPI Collaborative Processor Performance Control
+정격 주파수(MHz): 1300
+최대 성능 백분율: 350
+최소 성능 백분율: 100
+최소 스로틀 백분율: 6
+================================================================================
+TimeCreated : 2026-03-23 17:24:59
+Event ID    : 55
+Level       : 정보
+Provider    : Microsoft-Windows-Kernel-Processor-Power
+RecordId    : 456097
+Computer    : PAP55002588NO02
+MessageRaw  :
+0 그룹의 0 프로세서의 전원 관리 기능 정보:
+
+유휴 상태 유형: Micro Power Engine Plugin(11 상태)
+
+성능 상태 유형: ACPI Collaborative Processor Performance Control
+정격 주파수(MHz): 1300
+최대 성능 백분율: 350
+최소 성능 백분율: 37
+최소 스로틀 백분율: 6
+================================================================================
+TimeCreated : 2026-03-23 17:24:56
+Event ID    : 98
+Level       : 정보
+Provider    : Microsoft-Windows-Ntfs
+RecordId    : 456093
+Computer    : PAP55002588NO02
+MessageRaw  :
+볼륨 \\?\Volume{986a9eda-24e9-480f-aa08-8b167e755072} (\Device\HarddiskVolume4) 정상입니다. 작업이 필요 없습니다.
+================================================================================
+TimeCreated : 2026-03-23 17:24:55
+Event ID    : 98
+Level       : 정보
+Provider    : Microsoft-Windows-Ntfs
+RecordId    : 456062
+Computer    : PAP55002588NO02
+MessageRaw  :
+볼륨 C: (\Device\HarddiskVolume3) 정상입니다. 작업이 필요 없습니다.
+================================================================================
+TimeCreated : 2026-03-23 17:24:53
+Event ID    : 129
+Level       : 정보
+Provider    : Microsoft-Windows-Hyper-V-Hypervisor
+RecordId    : 456048
+Computer    : PAP55002588NO02
+MessageRaw  :
+하이퍼바이저가 I/O remapping.
+
+하드웨어를 초기화했습니다. true
+하드웨어 사용: true
+정책: 0x0
+사용 기능: 0x43
+내부 정보: 0x0
+문제: 0x0
+추가 정보: 0x0
+================================================================================
+TimeCreated : 2026-03-23 17:24:53
+Event ID    : 153
+Level       : 정보
+Provider    : Microsoft-Windows-Kernel-Boot
+RecordId    : 456038
+Computer    : PAP55002588NO02
+MessageRaw  :
+가상화 기반 보안(정책: VBS Enabled,VSM Required,Hvci,Boot Chain Signer Soft Enforced)은 enabled due to VBS registry configuration입니다.
+================================================================================
+TimeCreated : 2026-03-23 08:28:46
+Event ID    : 55
+Level       : 정보
+Provider    : Microsoft-Windows-Kernel-Processor-Power
+RecordId    : 455449
+Computer    : PAP55002588NO02
+MessageRaw  :
+0 그룹의 11 프로세서의 전원 관리 기능 정보:
+
+유휴 상태 유형: Micro Power Engine Plugin(11 상태)
+
+성능 상태 유형: ACPI Collaborative Processor Performance Control
+정격 주파수(MHz): 1300
+최대 성능 백분율: 366
+최소 성능 백분율: 100
+최소 스로틀 백분율: 11
+================================================================================
+TimeCreated : 2026-03-23 08:28:46
+Event ID    : 55
+Level       : 정보
+Provider    : Microsoft-Windows-Kernel-Processor-Power
+RecordId    : 455448
+Computer    : PAP55002588NO02
+MessageRaw  :
+0 그룹의 10 프로세서의 전원 관리 기능 정보:
+
+유휴 상태 유형: Micro Power Engine Plugin(11 상태)
+
+성능 상태 유형: ACPI Collaborative Processor Performance Control
+정격 주파수(MHz): 1300
+최대 성능 백분율: 366
+최소 성능 백분율: 100
+최소 스로틀 백분율: 11
+================================================================================
+TimeCreated : 2026-03-23 08:28:46
+Event ID    : 55
+Level       : 정보
+Provider    : Microsoft-Windows-Kernel-Processor-Power
+RecordId    : 455447
+Computer    : PAP55002588NO02
+MessageRaw  :
+0 그룹의 9 프로세서의 전원 관리 기능 정보:
+
+유휴 상태 유형: Micro Power Engine Plugin(11 상태)
+
+성능 상태 유형: ACPI Collaborative Processor Performance Control
+정격 주파수(MHz): 1300
+최대 성능 백분율: 366
+최소 성능 백분율: 100
+최소 스로틀 백분율: 11
+================================================================================
+TimeCreated : 2026-03-23 08:28:46
+Event ID    : 55
+Level       : 정보
+Provider    : Microsoft-Windows-Kernel-Processor-Power
+RecordId    : 455446
+Computer    : PAP55002588NO02
+MessageRaw  :
+0 그룹의 8 프로세서의 전원 관리 기능 정보:
+
+유휴 상태 유형: Micro Power Engine Plugin(11 상태)
+
+성능 상태 유형: ACPI Collaborative Processor Performance Control
+정격 주파수(MHz): 1300
+최대 성능 백분율: 366
+최소 성능 백분율: 100
+최소 스로틀 백분율: 11
+================================================================================
+TimeCreated : 2026-03-23 08:28:46
+Event ID    : 55
+Level       : 정보
+Provider    : Microsoft-Windows-Kernel-Processor-Power
+RecordId    : 455445
+Computer    : PAP55002588NO02
+MessageRaw  :
+0 그룹의 7 프로세서의 전원 관리 기능 정보:
+
+유휴 상태 유형: Micro Power Engine Plugin(11 상태)
+
+성능 상태 유형: ACPI Collaborative Processor Performance Control
+정격 주파수(MHz): 1300
+최대 성능 백분율: 366
+최소 성능 백분율: 100
+최소 스로틀 백분율: 11
+================================================================================
+TimeCreated : 2026-03-23 08:28:46
+Event ID    : 55
+Level       : 정보
+Provider    : Microsoft-Windows-Kernel-Processor-Power
+RecordId    : 455444
+Computer    : PAP55002588NO02
+MessageRaw  :
+0 그룹의 6 프로세서의 전원 관리 기능 정보:
+
+유휴 상태 유형: Micro Power Engine Plugin(11 상태)
+
+성능 상태 유형: ACPI Collaborative Processor Performance Control
+정격 주파수(MHz): 1300
+최대 성능 백분율: 366
+최소 성능 백분율: 100
+최소 스로틀 백분율: 11
+================================================================================
+TimeCreated : 2026-03-23 08:28:46
+Event ID    : 55
+Level       : 정보
+Provider    : Microsoft-Windows-Kernel-Processor-Power
+RecordId    : 455443
+Computer    : PAP55002588NO02
+MessageRaw  :
+0 그룹의 5 프로세서의 전원 관리 기능 정보:
+
+유휴 상태 유형: Micro Power Engine Plugin(11 상태)
+
+성능 상태 유형: ACPI Collaborative Processor Performance Control
+정격 주파수(MHz): 1300
+최대 성능 백분율: 366
+최소 성능 백분율: 100
+최소 스로틀 백분율: 11
+================================================================================
+TimeCreated : 2026-03-23 08:28:46
+Event ID    : 55
+Level       : 정보
+Provider    : Microsoft-Windows-Kernel-Processor-Power
+RecordId    : 455442
+Computer    : PAP55002588NO02
+MessageRaw  :
+0 그룹의 4 프로세서의 전원 관리 기능 정보:
+
+유휴 상태 유형: Micro Power Engine Plugin(11 상태)
+
+성능 상태 유형: ACPI Collaborative Processor Performance Control
+정격 주파수(MHz): 1300
+최대 성능 백분율: 366
+최소 성능 백분율: 100
+최소 스로틀 백분율: 11
+================================================================================
+TimeCreated : 2026-03-23 08:28:46
+Event ID    : 55
+Level       : 정보
+Provider    : Microsoft-Windows-Kernel-Processor-Power
+RecordId    : 455441
+Computer    : PAP55002588NO02
+MessageRaw  :
+0 그룹의 3 프로세서의 전원 관리 기능 정보:
+
+유휴 상태 유형: Micro Power Engine Plugin(11 상태)
+
+성능 상태 유형: ACPI Collaborative Processor Performance Control
+정격 주파수(MHz): 1300
+최대 성능 백분율: 350
+최소 성능 백분율: 100
+최소 스로틀 백분율: 6
+================================================================================
+TimeCreated : 2026-03-23 08:28:46
+Event ID    : 55
+Level       : 정보
+Provider    : Microsoft-Windows-Kernel-Processor-Power
+RecordId    : 455440
+Computer    : PAP55002588NO02
+MessageRaw  :
+0 그룹의 2 프로세서의 전원 관리 기능 정보:
+
+유휴 상태 유형: Micro Power Engine Plugin(11 상태)
+
+성능 상태 유형: ACPI Collaborative Processor Performance Control
+정격 주파수(MHz): 1300
+최대 성능 백분율: 350
+최소 성능 백분율: 100
+최소 스로틀 백분율: 6
+================================================================================
+TimeCreated : 2026-03-23 08:28:46
+Event ID    : 55
+Level       : 정보
+Provider    : Microsoft-Windows-Kernel-Processor-Power
+RecordId    : 455439
+Computer    : PAP55002588NO02
+MessageRaw  :
+0 그룹의 1 프로세서의 전원 관리 기능 정보:
+
+유휴 상태 유형: Micro Power Engine Plugin(11 상태)
+
+성능 상태 유형: ACPI Collaborative Processor Performance Control
+정격 주파수(MHz): 1300
+최대 성능 백분율: 350
+최소 성능 백분율: 100
+최소 스로틀 백분율: 6
+================================================================================
+TimeCreated : 2026-03-23 08:28:46
+Event ID    : 55
+Level       : 정보
+Provider    : Microsoft-Windows-Kernel-Processor-Power
+RecordId    : 455438
+Computer    : PAP55002588NO02
+MessageRaw  :
+0 그룹의 0 프로세서의 전원 관리 기능 정보:
+
+유휴 상태 유형: Micro Power Engine Plugin(11 상태)
+
+성능 상태 유형: ACPI Collaborative Processor Performance Control
+정격 주파수(MHz): 1300
+최대 성능 백분율: 350
+최소 성능 백분율: 37
+최소 스로틀 백분율: 6
+================================================================================
+TimeCreated : 2026-03-23 08:28:42
+Event ID    : 98
+Level       : 정보
+Provider    : Microsoft-Windows-Ntfs
+RecordId    : 455429
+Computer    : PAP55002588NO02
+MessageRaw  :
+볼륨 \\?\Volume{986a9eda-24e9-480f-aa08-8b167e755072} (\Device\HarddiskVolume4) 정상입니다. 작업이 필요 없습니다.
+================================================================================
+TimeCreated : 2026-03-23 08:28:42
+Event ID    : 98
+Level       : 정보
+Provider    : Microsoft-Windows-Ntfs
+RecordId    : 455380
+Computer    : PAP55002588NO02
+MessageRaw  :
+볼륨 C: (\Device\HarddiskVolume3) 정상입니다. 작업이 필요 없습니다.
+================================================================================
+TimeCreated : 2026-03-23 08:28:40
+Event ID    : 129
+Level       : 정보
+Provider    : Microsoft-Windows-Hyper-V-Hypervisor
+RecordId    : 455366
+Computer    : PAP55002588NO02
+MessageRaw  :
+하이퍼바이저가 I/O remapping.
+
+하드웨어를 초기화했습니다. true
+하드웨어 사용: true
+정책: 0x0
+사용 기능: 0x43
+내부 정보: 0x0
+문제: 0x0
+추가 정보: 0x0
+================================================================================
+TimeCreated : 2026-03-23 08:28:40
+Event ID    : 153
+Level       : 정보
+Provider    : Microsoft-Windows-Kernel-Boot
+RecordId    : 455356
+Computer    : PAP55002588NO02
+MessageRaw  :
+가상화 기반 보안(정책: VBS Enabled,VSM Required,Hvci,Boot Chain Signer Soft Enforced)은 enabled due to VBS registry configuration입니다.

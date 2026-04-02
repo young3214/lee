@@ -1,0 +1,161 @@
+; ff6daie.inf
+; Copyright (c) 2009-2021 FUJIFILM Business Innovation Corp.
+; Install Script for FUJIFILM PCL 6
+
+[Version]
+Signature="$Windows NT$"
+Class=Printer
+Provider=%FUJIFILM%
+ClassGUID={4D36E979-E325-11CE-BFC1-08002BE10318}
+DriverVer=09/28/2022,2.7.4.1
+CatalogFile=ff6daie.cat
+
+;
+; Manufacturer section.
+;
+[Manufacturer]
+%FUJIFILM%=FUJIFILM,NTamd64
+
+;
+; Model sections. 
+
+[FUJIFILM.NTamd64]
+"FF Multi-model Print Driver 2"=FFXTXM,USBPRINT\FUJIFILMApeos_C2570C67B
+
+;
+; Install Sections
+;
+;Multi-model Print Driver II
+[FFXTXM]
+CopyFiles=COMMON
+DataFile=ff6dae.ddd
+DataSection=PRINTER_DATA
+
+; Copy Sections
+[COMMON]
+ff6daeiu.dll
+ff6daeim.dll
+ff6dajdm.dll
+ff6daeir.xrs
+ff6daeir_2052.xrs
+ff6daeir_1042.xrs
+ff6daeir_1041.xrs
+ff6daeir_1028.xrs
+ff6daeir_1054.xrs
+ff6daeir_1066.xrs
+ff6daeir_1057.xrs
+; only x64 File
+ff6dakdm.dll
+
+ffzddmif.dll
+ffzdhb32.dll
+; only x64 File
+ffzdmifk.dll
+ff6daadc.dll
+ff6daarl32.dll
+ffzqmx6.dll
+
+ff6dae.cfg
+ff6dae.tbl
+
+;Help
+ff6dae.chm
+ff6dae_2052.chm
+ff6dae_1042.chm
+ff6dae_1041.chm
+ff6dae_1028.chm
+ff6dae_1054.chm
+ff6dae_1066.chm
+ff6dae_1057.chm
+
+;Support Files
+ff6dae.xrs
+ff6dae_2052.xrs
+ff6dae_1042.xrs
+ff6dae_1041.xrs
+ff6dae_1028.xrs
+ff6dae_1054.xrs
+ff6dae_1066.xrs
+ff6dae_1057.xrs
+ff6dae.cdd
+ff6dae.ddd
+
+[PRINTER_DATA]
+DefaultDataType=RAW
+DriverFile=ff6daeim.dll
+ConfigFile=ff6daeiu.dll
+HelpFile=ff6dae.chm
+
+;
+; Package-Aware declaration
+;
+[PrinterPackageInstallation.amd64]
+PackageAware=TRUE
+
+[SourceDisksNames.amd64]
+1=%DISK1%,,
+
+[DestinationDirs]
+DefaultDestDir = 66000
+
+[SourceDisksFiles.amd64]
+ff6daeiu.dll    	=1
+ff6daeim.dll    	=1
+ff6dajdm.dll    	=1
+ff6daeir.xrs    	=1
+ff6daeir_2052.xrs	=1
+ff6daeir_1042.xrs	=1
+ff6daeir_1041.xrs	=1
+ff6daeir_1028.xrs	=1
+ff6daeir_1054.xrs	=1
+ff6daeir_1066.xrs	=1
+ff6daeir_1057.xrs	=1
+; only x64 file
+ff6dakdm.dll		=1
+
+ffzddmif.dll    	=1
+ffzdhb32.dll    	=1
+
+; only x64 file
+ffzdmifk.dll		=1
+
+ff6daadc.dll		=1
+ff6daarl32.dll		=1
+ffzqmx6.dll			=1
+
+ff6dae.cfg			=1
+ff6dae.tbl			=1
+
+;Help
+ff6dae.chm			=1
+ff6dae_2052.chm		=1
+ff6dae_1042.chm		=1
+ff6dae_1041.chm		=1
+ff6dae_1028.chm		=1
+ff6dae_1054.chm		=1
+ff6dae_1066.chm		=1
+ff6dae_1057.chm		=1
+
+;Support Files
+ff6dae.xrs			=1
+ff6dae_2052.xrs		=1
+ff6dae_1042.xrs		=1
+ff6dae_1041.xrs		=1
+ff6dae_1028.xrs		=1
+ff6dae_1054.xrs		=1
+ff6dae_1066.xrs		=1
+ff6dae_1057.xrs		=1
+ff6dae.cdd			=1
+ff6dae.ddd			=1
+
+[OEM URLS]
+;%FUJIFILM%="https://fujifilm.com/fb/download"
+
+[Strings]
+; Manufacturer
+FUJIFILM="FUJIFILM"
+; Disk Name
+DISK1="FUJIFILM Printer Driver(Windows) CD-ROM"
+
+[DEVMODE]
+Version=82.24

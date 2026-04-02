@@ -1,0 +1,721 @@
+﻿"ComputerName","LogName","Id","Level","ProviderName","TimeCreated","RecordId","MachineName","MessageOneLine","MessageRaw"
+"PAP55002588NO02","System","55","정보","Microsoft-Windows-Kernel-Processor-Power","2026-03-24 22:20:37","457996","PAP55002588NO02","0 그룹의 11 프로세서의 전원 관리 기능 정보: 유휴 상태 유형: Micro Power Engine Plugin(11 상태) 성능 상태 유형: ACPI Collaborative Processor Performance Control 정격 주파수(MHz): 1300 최대 성능 백분율: 366 최소 성능 백분율: 100 최소 스로틀 백분율: 11","0 그룹의 11 프로세서의 전원 관리 기능 정보:
+
+유휴 상태 유형: Micro Power Engine Plugin(11 상태)
+
+성능 상태 유형: ACPI Collaborative Processor Performance Control
+정격 주파수(MHz): 1300
+최대 성능 백분율: 366
+최소 성능 백분율: 100
+최소 스로틀 백분율: 11"
+"PAP55002588NO02","System","55","정보","Microsoft-Windows-Kernel-Processor-Power","2026-03-24 22:20:37","457995","PAP55002588NO02","0 그룹의 10 프로세서의 전원 관리 기능 정보: 유휴 상태 유형: Micro Power Engine Plugin(11 상태) 성능 상태 유형: ACPI Collaborative Processor Performance Control 정격 주파수(MHz): 1300 최대 성능 백분율: 366 최소 성능 백분율: 100 최소 스로틀 백분율: 11","0 그룹의 10 프로세서의 전원 관리 기능 정보:
+
+유휴 상태 유형: Micro Power Engine Plugin(11 상태)
+
+성능 상태 유형: ACPI Collaborative Processor Performance Control
+정격 주파수(MHz): 1300
+최대 성능 백분율: 366
+최소 성능 백분율: 100
+최소 스로틀 백분율: 11"
+"PAP55002588NO02","System","55","정보","Microsoft-Windows-Kernel-Processor-Power","2026-03-24 22:20:37","457994","PAP55002588NO02","0 그룹의 9 프로세서의 전원 관리 기능 정보: 유휴 상태 유형: Micro Power Engine Plugin(11 상태) 성능 상태 유형: ACPI Collaborative Processor Performance Control 정격 주파수(MHz): 1300 최대 성능 백분율: 366 최소 성능 백분율: 100 최소 스로틀 백분율: 11","0 그룹의 9 프로세서의 전원 관리 기능 정보:
+
+유휴 상태 유형: Micro Power Engine Plugin(11 상태)
+
+성능 상태 유형: ACPI Collaborative Processor Performance Control
+정격 주파수(MHz): 1300
+최대 성능 백분율: 366
+최소 성능 백분율: 100
+최소 스로틀 백분율: 11"
+"PAP55002588NO02","System","55","정보","Microsoft-Windows-Kernel-Processor-Power","2026-03-24 22:20:37","457993","PAP55002588NO02","0 그룹의 8 프로세서의 전원 관리 기능 정보: 유휴 상태 유형: Micro Power Engine Plugin(11 상태) 성능 상태 유형: ACPI Collaborative Processor Performance Control 정격 주파수(MHz): 1300 최대 성능 백분율: 366 최소 성능 백분율: 100 최소 스로틀 백분율: 11","0 그룹의 8 프로세서의 전원 관리 기능 정보:
+
+유휴 상태 유형: Micro Power Engine Plugin(11 상태)
+
+성능 상태 유형: ACPI Collaborative Processor Performance Control
+정격 주파수(MHz): 1300
+최대 성능 백분율: 366
+최소 성능 백분율: 100
+최소 스로틀 백분율: 11"
+"PAP55002588NO02","System","55","정보","Microsoft-Windows-Kernel-Processor-Power","2026-03-24 22:20:37","457992","PAP55002588NO02","0 그룹의 7 프로세서의 전원 관리 기능 정보: 유휴 상태 유형: Micro Power Engine Plugin(11 상태) 성능 상태 유형: ACPI Collaborative Processor Performance Control 정격 주파수(MHz): 1300 최대 성능 백분율: 366 최소 성능 백분율: 100 최소 스로틀 백분율: 11","0 그룹의 7 프로세서의 전원 관리 기능 정보:
+
+유휴 상태 유형: Micro Power Engine Plugin(11 상태)
+
+성능 상태 유형: ACPI Collaborative Processor Performance Control
+정격 주파수(MHz): 1300
+최대 성능 백분율: 366
+최소 성능 백분율: 100
+최소 스로틀 백분율: 11"
+"PAP55002588NO02","System","55","정보","Microsoft-Windows-Kernel-Processor-Power","2026-03-24 22:20:37","457991","PAP55002588NO02","0 그룹의 6 프로세서의 전원 관리 기능 정보: 유휴 상태 유형: Micro Power Engine Plugin(11 상태) 성능 상태 유형: ACPI Collaborative Processor Performance Control 정격 주파수(MHz): 1300 최대 성능 백분율: 366 최소 성능 백분율: 100 최소 스로틀 백분율: 11","0 그룹의 6 프로세서의 전원 관리 기능 정보:
+
+유휴 상태 유형: Micro Power Engine Plugin(11 상태)
+
+성능 상태 유형: ACPI Collaborative Processor Performance Control
+정격 주파수(MHz): 1300
+최대 성능 백분율: 366
+최소 성능 백분율: 100
+최소 스로틀 백분율: 11"
+"PAP55002588NO02","System","55","정보","Microsoft-Windows-Kernel-Processor-Power","2026-03-24 22:20:37","457990","PAP55002588NO02","0 그룹의 5 프로세서의 전원 관리 기능 정보: 유휴 상태 유형: Micro Power Engine Plugin(11 상태) 성능 상태 유형: ACPI Collaborative Processor Performance Control 정격 주파수(MHz): 1300 최대 성능 백분율: 366 최소 성능 백분율: 100 최소 스로틀 백분율: 11","0 그룹의 5 프로세서의 전원 관리 기능 정보:
+
+유휴 상태 유형: Micro Power Engine Plugin(11 상태)
+
+성능 상태 유형: ACPI Collaborative Processor Performance Control
+정격 주파수(MHz): 1300
+최대 성능 백분율: 366
+최소 성능 백분율: 100
+최소 스로틀 백분율: 11"
+"PAP55002588NO02","System","55","정보","Microsoft-Windows-Kernel-Processor-Power","2026-03-24 22:20:37","457989","PAP55002588NO02","0 그룹의 4 프로세서의 전원 관리 기능 정보: 유휴 상태 유형: Micro Power Engine Plugin(11 상태) 성능 상태 유형: ACPI Collaborative Processor Performance Control 정격 주파수(MHz): 1300 최대 성능 백분율: 366 최소 성능 백분율: 100 최소 스로틀 백분율: 11","0 그룹의 4 프로세서의 전원 관리 기능 정보:
+
+유휴 상태 유형: Micro Power Engine Plugin(11 상태)
+
+성능 상태 유형: ACPI Collaborative Processor Performance Control
+정격 주파수(MHz): 1300
+최대 성능 백분율: 366
+최소 성능 백분율: 100
+최소 스로틀 백분율: 11"
+"PAP55002588NO02","System","55","정보","Microsoft-Windows-Kernel-Processor-Power","2026-03-24 22:20:37","457988","PAP55002588NO02","0 그룹의 3 프로세서의 전원 관리 기능 정보: 유휴 상태 유형: Micro Power Engine Plugin(11 상태) 성능 상태 유형: ACPI Collaborative Processor Performance Control 정격 주파수(MHz): 1300 최대 성능 백분율: 350 최소 성능 백분율: 100 최소 스로틀 백분율: 6","0 그룹의 3 프로세서의 전원 관리 기능 정보:
+
+유휴 상태 유형: Micro Power Engine Plugin(11 상태)
+
+성능 상태 유형: ACPI Collaborative Processor Performance Control
+정격 주파수(MHz): 1300
+최대 성능 백분율: 350
+최소 성능 백분율: 100
+최소 스로틀 백분율: 6"
+"PAP55002588NO02","System","55","정보","Microsoft-Windows-Kernel-Processor-Power","2026-03-24 22:20:37","457987","PAP55002588NO02","0 그룹의 2 프로세서의 전원 관리 기능 정보: 유휴 상태 유형: Micro Power Engine Plugin(11 상태) 성능 상태 유형: ACPI Collaborative Processor Performance Control 정격 주파수(MHz): 1300 최대 성능 백분율: 350 최소 성능 백분율: 100 최소 스로틀 백분율: 6","0 그룹의 2 프로세서의 전원 관리 기능 정보:
+
+유휴 상태 유형: Micro Power Engine Plugin(11 상태)
+
+성능 상태 유형: ACPI Collaborative Processor Performance Control
+정격 주파수(MHz): 1300
+최대 성능 백분율: 350
+최소 성능 백분율: 100
+최소 스로틀 백분율: 6"
+"PAP55002588NO02","System","55","정보","Microsoft-Windows-Kernel-Processor-Power","2026-03-24 22:20:37","457986","PAP55002588NO02","0 그룹의 1 프로세서의 전원 관리 기능 정보: 유휴 상태 유형: Micro Power Engine Plugin(11 상태) 성능 상태 유형: ACPI Collaborative Processor Performance Control 정격 주파수(MHz): 1300 최대 성능 백분율: 350 최소 성능 백분율: 100 최소 스로틀 백분율: 6","0 그룹의 1 프로세서의 전원 관리 기능 정보:
+
+유휴 상태 유형: Micro Power Engine Plugin(11 상태)
+
+성능 상태 유형: ACPI Collaborative Processor Performance Control
+정격 주파수(MHz): 1300
+최대 성능 백분율: 350
+최소 성능 백분율: 100
+최소 스로틀 백분율: 6"
+"PAP55002588NO02","System","55","정보","Microsoft-Windows-Kernel-Processor-Power","2026-03-24 22:20:37","457985","PAP55002588NO02","0 그룹의 0 프로세서의 전원 관리 기능 정보: 유휴 상태 유형: Micro Power Engine Plugin(11 상태) 성능 상태 유형: ACPI Collaborative Processor Performance Control 정격 주파수(MHz): 1300 최대 성능 백분율: 350 최소 성능 백분율: 37 최소 스로틀 백분율: 6","0 그룹의 0 프로세서의 전원 관리 기능 정보:
+
+유휴 상태 유형: Micro Power Engine Plugin(11 상태)
+
+성능 상태 유형: ACPI Collaborative Processor Performance Control
+정격 주파수(MHz): 1300
+최대 성능 백분율: 350
+최소 성능 백분율: 37
+최소 스로틀 백분율: 6"
+"PAP55002588NO02","System","98","정보","Microsoft-Windows-Ntfs","2026-03-24 22:20:35","457981","PAP55002588NO02","볼륨 \\?\Volume{986a9eda-24e9-480f-aa08-8b167e755072} (\Device\HarddiskVolume4) 정상입니다. 작업이 필요 없습니다.","볼륨 \\?\Volume{986a9eda-24e9-480f-aa08-8b167e755072} (\Device\HarddiskVolume4) 정상입니다. 작업이 필요 없습니다."
+"PAP55002588NO02","System","98","정보","Microsoft-Windows-Ntfs","2026-03-24 22:20:29","457950","PAP55002588NO02","볼륨 C: (\Device\HarddiskVolume3) 정상입니다. 작업이 필요 없습니다.","볼륨 C: (\Device\HarddiskVolume3) 정상입니다. 작업이 필요 없습니다."
+"PAP55002588NO02","System","129","정보","Microsoft-Windows-Hyper-V-Hypervisor","2026-03-24 22:20:26","457936","PAP55002588NO02","하이퍼바이저가 I/O remapping. 하드웨어를 초기화했습니다. true 하드웨어 사용: true 정책: 0x0 사용 기능: 0x43 내부 정보: 0x0 문제: 0x0 추가 정보: 0x0","하이퍼바이저가 I/O remapping.
+
+하드웨어를 초기화했습니다. true
+하드웨어 사용: true
+정책: 0x0
+사용 기능: 0x43
+내부 정보: 0x0
+문제: 0x0
+추가 정보: 0x0"
+"PAP55002588NO02","System","153","정보","Microsoft-Windows-Kernel-Boot","2026-03-24 22:20:26","457926","PAP55002588NO02","가상화 기반 보안(정책: VBS Enabled,VSM Required,Hvci,Boot Chain Signer Soft Enforced)은 enabled due to VBS registry configuration입니다.","가상화 기반 보안(정책: VBS Enabled,VSM Required,Hvci,Boot Chain Signer Soft Enforced)은 enabled due to VBS registry configuration입니다."
+"PAP55002588NO02","System","55","정보","Microsoft-Windows-Kernel-Processor-Power","2026-03-24 19:31:37","457602","PAP55002588NO02","0 그룹의 11 프로세서의 전원 관리 기능 정보: 유휴 상태 유형: Micro Power Engine Plugin(11 상태) 성능 상태 유형: ACPI Collaborative Processor Performance Control 정격 주파수(MHz): 1300 최대 성능 백분율: 366 최소 성능 백분율: 100 최소 스로틀 백분율: 11","0 그룹의 11 프로세서의 전원 관리 기능 정보:
+
+유휴 상태 유형: Micro Power Engine Plugin(11 상태)
+
+성능 상태 유형: ACPI Collaborative Processor Performance Control
+정격 주파수(MHz): 1300
+최대 성능 백분율: 366
+최소 성능 백분율: 100
+최소 스로틀 백분율: 11"
+"PAP55002588NO02","System","55","정보","Microsoft-Windows-Kernel-Processor-Power","2026-03-24 19:31:37","457601","PAP55002588NO02","0 그룹의 10 프로세서의 전원 관리 기능 정보: 유휴 상태 유형: Micro Power Engine Plugin(11 상태) 성능 상태 유형: ACPI Collaborative Processor Performance Control 정격 주파수(MHz): 1300 최대 성능 백분율: 366 최소 성능 백분율: 100 최소 스로틀 백분율: 11","0 그룹의 10 프로세서의 전원 관리 기능 정보:
+
+유휴 상태 유형: Micro Power Engine Plugin(11 상태)
+
+성능 상태 유형: ACPI Collaborative Processor Performance Control
+정격 주파수(MHz): 1300
+최대 성능 백분율: 366
+최소 성능 백분율: 100
+최소 스로틀 백분율: 11"
+"PAP55002588NO02","System","55","정보","Microsoft-Windows-Kernel-Processor-Power","2026-03-24 19:31:36","457600","PAP55002588NO02","0 그룹의 9 프로세서의 전원 관리 기능 정보: 유휴 상태 유형: Micro Power Engine Plugin(11 상태) 성능 상태 유형: ACPI Collaborative Processor Performance Control 정격 주파수(MHz): 1300 최대 성능 백분율: 366 최소 성능 백분율: 100 최소 스로틀 백분율: 11","0 그룹의 9 프로세서의 전원 관리 기능 정보:
+
+유휴 상태 유형: Micro Power Engine Plugin(11 상태)
+
+성능 상태 유형: ACPI Collaborative Processor Performance Control
+정격 주파수(MHz): 1300
+최대 성능 백분율: 366
+최소 성능 백분율: 100
+최소 스로틀 백분율: 11"
+"PAP55002588NO02","System","55","정보","Microsoft-Windows-Kernel-Processor-Power","2026-03-24 19:31:36","457599","PAP55002588NO02","0 그룹의 8 프로세서의 전원 관리 기능 정보: 유휴 상태 유형: Micro Power Engine Plugin(11 상태) 성능 상태 유형: ACPI Collaborative Processor Performance Control 정격 주파수(MHz): 1300 최대 성능 백분율: 366 최소 성능 백분율: 100 최소 스로틀 백분율: 11","0 그룹의 8 프로세서의 전원 관리 기능 정보:
+
+유휴 상태 유형: Micro Power Engine Plugin(11 상태)
+
+성능 상태 유형: ACPI Collaborative Processor Performance Control
+정격 주파수(MHz): 1300
+최대 성능 백분율: 366
+최소 성능 백분율: 100
+최소 스로틀 백분율: 11"
+"PAP55002588NO02","System","55","정보","Microsoft-Windows-Kernel-Processor-Power","2026-03-24 19:31:36","457598","PAP55002588NO02","0 그룹의 7 프로세서의 전원 관리 기능 정보: 유휴 상태 유형: Micro Power Engine Plugin(11 상태) 성능 상태 유형: ACPI Collaborative Processor Performance Control 정격 주파수(MHz): 1300 최대 성능 백분율: 366 최소 성능 백분율: 100 최소 스로틀 백분율: 11","0 그룹의 7 프로세서의 전원 관리 기능 정보:
+
+유휴 상태 유형: Micro Power Engine Plugin(11 상태)
+
+성능 상태 유형: ACPI Collaborative Processor Performance Control
+정격 주파수(MHz): 1300
+최대 성능 백분율: 366
+최소 성능 백분율: 100
+최소 스로틀 백분율: 11"
+"PAP55002588NO02","System","55","정보","Microsoft-Windows-Kernel-Processor-Power","2026-03-24 19:31:36","457597","PAP55002588NO02","0 그룹의 6 프로세서의 전원 관리 기능 정보: 유휴 상태 유형: Micro Power Engine Plugin(11 상태) 성능 상태 유형: ACPI Collaborative Processor Performance Control 정격 주파수(MHz): 1300 최대 성능 백분율: 366 최소 성능 백분율: 100 최소 스로틀 백분율: 11","0 그룹의 6 프로세서의 전원 관리 기능 정보:
+
+유휴 상태 유형: Micro Power Engine Plugin(11 상태)
+
+성능 상태 유형: ACPI Collaborative Processor Performance Control
+정격 주파수(MHz): 1300
+최대 성능 백분율: 366
+최소 성능 백분율: 100
+최소 스로틀 백분율: 11"
+"PAP55002588NO02","System","55","정보","Microsoft-Windows-Kernel-Processor-Power","2026-03-24 19:31:36","457596","PAP55002588NO02","0 그룹의 5 프로세서의 전원 관리 기능 정보: 유휴 상태 유형: Micro Power Engine Plugin(11 상태) 성능 상태 유형: ACPI Collaborative Processor Performance Control 정격 주파수(MHz): 1300 최대 성능 백분율: 366 최소 성능 백분율: 100 최소 스로틀 백분율: 11","0 그룹의 5 프로세서의 전원 관리 기능 정보:
+
+유휴 상태 유형: Micro Power Engine Plugin(11 상태)
+
+성능 상태 유형: ACPI Collaborative Processor Performance Control
+정격 주파수(MHz): 1300
+최대 성능 백분율: 366
+최소 성능 백분율: 100
+최소 스로틀 백분율: 11"
+"PAP55002588NO02","System","55","정보","Microsoft-Windows-Kernel-Processor-Power","2026-03-24 19:31:36","457595","PAP55002588NO02","0 그룹의 4 프로세서의 전원 관리 기능 정보: 유휴 상태 유형: Micro Power Engine Plugin(11 상태) 성능 상태 유형: ACPI Collaborative Processor Performance Control 정격 주파수(MHz): 1300 최대 성능 백분율: 366 최소 성능 백분율: 100 최소 스로틀 백분율: 11","0 그룹의 4 프로세서의 전원 관리 기능 정보:
+
+유휴 상태 유형: Micro Power Engine Plugin(11 상태)
+
+성능 상태 유형: ACPI Collaborative Processor Performance Control
+정격 주파수(MHz): 1300
+최대 성능 백분율: 366
+최소 성능 백분율: 100
+최소 스로틀 백분율: 11"
+"PAP55002588NO02","System","55","정보","Microsoft-Windows-Kernel-Processor-Power","2026-03-24 19:31:36","457594","PAP55002588NO02","0 그룹의 3 프로세서의 전원 관리 기능 정보: 유휴 상태 유형: Micro Power Engine Plugin(11 상태) 성능 상태 유형: ACPI Collaborative Processor Performance Control 정격 주파수(MHz): 1300 최대 성능 백분율: 350 최소 성능 백분율: 100 최소 스로틀 백분율: 6","0 그룹의 3 프로세서의 전원 관리 기능 정보:
+
+유휴 상태 유형: Micro Power Engine Plugin(11 상태)
+
+성능 상태 유형: ACPI Collaborative Processor Performance Control
+정격 주파수(MHz): 1300
+최대 성능 백분율: 350
+최소 성능 백분율: 100
+최소 스로틀 백분율: 6"
+"PAP55002588NO02","System","55","정보","Microsoft-Windows-Kernel-Processor-Power","2026-03-24 19:31:36","457593","PAP55002588NO02","0 그룹의 2 프로세서의 전원 관리 기능 정보: 유휴 상태 유형: Micro Power Engine Plugin(11 상태) 성능 상태 유형: ACPI Collaborative Processor Performance Control 정격 주파수(MHz): 1300 최대 성능 백분율: 350 최소 성능 백분율: 100 최소 스로틀 백분율: 6","0 그룹의 2 프로세서의 전원 관리 기능 정보:
+
+유휴 상태 유형: Micro Power Engine Plugin(11 상태)
+
+성능 상태 유형: ACPI Collaborative Processor Performance Control
+정격 주파수(MHz): 1300
+최대 성능 백분율: 350
+최소 성능 백분율: 100
+최소 스로틀 백분율: 6"
+"PAP55002588NO02","System","55","정보","Microsoft-Windows-Kernel-Processor-Power","2026-03-24 19:31:36","457592","PAP55002588NO02","0 그룹의 1 프로세서의 전원 관리 기능 정보: 유휴 상태 유형: Micro Power Engine Plugin(11 상태) 성능 상태 유형: ACPI Collaborative Processor Performance Control 정격 주파수(MHz): 1300 최대 성능 백분율: 350 최소 성능 백분율: 100 최소 스로틀 백분율: 6","0 그룹의 1 프로세서의 전원 관리 기능 정보:
+
+유휴 상태 유형: Micro Power Engine Plugin(11 상태)
+
+성능 상태 유형: ACPI Collaborative Processor Performance Control
+정격 주파수(MHz): 1300
+최대 성능 백분율: 350
+최소 성능 백분율: 100
+최소 스로틀 백분율: 6"
+"PAP55002588NO02","System","55","정보","Microsoft-Windows-Kernel-Processor-Power","2026-03-24 19:31:36","457591","PAP55002588NO02","0 그룹의 0 프로세서의 전원 관리 기능 정보: 유휴 상태 유형: Micro Power Engine Plugin(11 상태) 성능 상태 유형: ACPI Collaborative Processor Performance Control 정격 주파수(MHz): 1300 최대 성능 백분율: 350 최소 성능 백분율: 37 최소 스로틀 백분율: 6","0 그룹의 0 프로세서의 전원 관리 기능 정보:
+
+유휴 상태 유형: Micro Power Engine Plugin(11 상태)
+
+성능 상태 유형: ACPI Collaborative Processor Performance Control
+정격 주파수(MHz): 1300
+최대 성능 백분율: 350
+최소 성능 백분율: 37
+최소 스로틀 백분율: 6"
+"PAP55002588NO02","System","98","정보","Microsoft-Windows-Ntfs","2026-03-24 19:31:33","457587","PAP55002588NO02","볼륨 \\?\Volume{986a9eda-24e9-480f-aa08-8b167e755072} (\Device\HarddiskVolume4) 정상입니다. 작업이 필요 없습니다.","볼륨 \\?\Volume{986a9eda-24e9-480f-aa08-8b167e755072} (\Device\HarddiskVolume4) 정상입니다. 작업이 필요 없습니다."
+"PAP55002588NO02","System","98","정보","Microsoft-Windows-Ntfs","2026-03-24 19:31:32","457556","PAP55002588NO02","볼륨 C: (\Device\HarddiskVolume3) 정상입니다. 작업이 필요 없습니다.","볼륨 C: (\Device\HarddiskVolume3) 정상입니다. 작업이 필요 없습니다."
+"PAP55002588NO02","System","129","정보","Microsoft-Windows-Hyper-V-Hypervisor","2026-03-24 19:31:30","457542","PAP55002588NO02","하이퍼바이저가 I/O remapping. 하드웨어를 초기화했습니다. true 하드웨어 사용: true 정책: 0x0 사용 기능: 0x43 내부 정보: 0x0 문제: 0x0 추가 정보: 0x0","하이퍼바이저가 I/O remapping.
+
+하드웨어를 초기화했습니다. true
+하드웨어 사용: true
+정책: 0x0
+사용 기능: 0x43
+내부 정보: 0x0
+문제: 0x0
+추가 정보: 0x0"
+"PAP55002588NO02","System","153","정보","Microsoft-Windows-Kernel-Boot","2026-03-24 19:31:30","457532","PAP55002588NO02","가상화 기반 보안(정책: VBS Enabled,VSM Required,Hvci,Boot Chain Signer Soft Enforced)은 enabled due to VBS registry configuration입니다.","가상화 기반 보안(정책: VBS Enabled,VSM Required,Hvci,Boot Chain Signer Soft Enforced)은 enabled due to VBS registry configuration입니다."
+"PAP55002588NO02","System","55","정보","Microsoft-Windows-Kernel-Processor-Power","2026-03-24 10:15:56","456676","PAP55002588NO02","0 그룹의 11 프로세서의 전원 관리 기능 정보: 유휴 상태 유형: Micro Power Engine Plugin(11 상태) 성능 상태 유형: ACPI Collaborative Processor Performance Control 정격 주파수(MHz): 1300 최대 성능 백분율: 366 최소 성능 백분율: 100 최소 스로틀 백분율: 11","0 그룹의 11 프로세서의 전원 관리 기능 정보:
+
+유휴 상태 유형: Micro Power Engine Plugin(11 상태)
+
+성능 상태 유형: ACPI Collaborative Processor Performance Control
+정격 주파수(MHz): 1300
+최대 성능 백분율: 366
+최소 성능 백분율: 100
+최소 스로틀 백분율: 11"
+"PAP55002588NO02","System","55","정보","Microsoft-Windows-Kernel-Processor-Power","2026-03-24 10:15:55","456675","PAP55002588NO02","0 그룹의 10 프로세서의 전원 관리 기능 정보: 유휴 상태 유형: Micro Power Engine Plugin(11 상태) 성능 상태 유형: ACPI Collaborative Processor Performance Control 정격 주파수(MHz): 1300 최대 성능 백분율: 366 최소 성능 백분율: 100 최소 스로틀 백분율: 11","0 그룹의 10 프로세서의 전원 관리 기능 정보:
+
+유휴 상태 유형: Micro Power Engine Plugin(11 상태)
+
+성능 상태 유형: ACPI Collaborative Processor Performance Control
+정격 주파수(MHz): 1300
+최대 성능 백분율: 366
+최소 성능 백분율: 100
+최소 스로틀 백분율: 11"
+"PAP55002588NO02","System","55","정보","Microsoft-Windows-Kernel-Processor-Power","2026-03-24 10:15:55","456674","PAP55002588NO02","0 그룹의 9 프로세서의 전원 관리 기능 정보: 유휴 상태 유형: Micro Power Engine Plugin(11 상태) 성능 상태 유형: ACPI Collaborative Processor Performance Control 정격 주파수(MHz): 1300 최대 성능 백분율: 366 최소 성능 백분율: 100 최소 스로틀 백분율: 11","0 그룹의 9 프로세서의 전원 관리 기능 정보:
+
+유휴 상태 유형: Micro Power Engine Plugin(11 상태)
+
+성능 상태 유형: ACPI Collaborative Processor Performance Control
+정격 주파수(MHz): 1300
+최대 성능 백분율: 366
+최소 성능 백분율: 100
+최소 스로틀 백분율: 11"
+"PAP55002588NO02","System","55","정보","Microsoft-Windows-Kernel-Processor-Power","2026-03-24 10:15:55","456673","PAP55002588NO02","0 그룹의 8 프로세서의 전원 관리 기능 정보: 유휴 상태 유형: Micro Power Engine Plugin(11 상태) 성능 상태 유형: ACPI Collaborative Processor Performance Control 정격 주파수(MHz): 1300 최대 성능 백분율: 366 최소 성능 백분율: 100 최소 스로틀 백분율: 11","0 그룹의 8 프로세서의 전원 관리 기능 정보:
+
+유휴 상태 유형: Micro Power Engine Plugin(11 상태)
+
+성능 상태 유형: ACPI Collaborative Processor Performance Control
+정격 주파수(MHz): 1300
+최대 성능 백분율: 366
+최소 성능 백분율: 100
+최소 스로틀 백분율: 11"
+"PAP55002588NO02","System","55","정보","Microsoft-Windows-Kernel-Processor-Power","2026-03-24 10:15:55","456672","PAP55002588NO02","0 그룹의 7 프로세서의 전원 관리 기능 정보: 유휴 상태 유형: Micro Power Engine Plugin(11 상태) 성능 상태 유형: ACPI Collaborative Processor Performance Control 정격 주파수(MHz): 1300 최대 성능 백분율: 366 최소 성능 백분율: 100 최소 스로틀 백분율: 11","0 그룹의 7 프로세서의 전원 관리 기능 정보:
+
+유휴 상태 유형: Micro Power Engine Plugin(11 상태)
+
+성능 상태 유형: ACPI Collaborative Processor Performance Control
+정격 주파수(MHz): 1300
+최대 성능 백분율: 366
+최소 성능 백분율: 100
+최소 스로틀 백분율: 11"
+"PAP55002588NO02","System","55","정보","Microsoft-Windows-Kernel-Processor-Power","2026-03-24 10:15:55","456671","PAP55002588NO02","0 그룹의 6 프로세서의 전원 관리 기능 정보: 유휴 상태 유형: Micro Power Engine Plugin(11 상태) 성능 상태 유형: ACPI Collaborative Processor Performance Control 정격 주파수(MHz): 1300 최대 성능 백분율: 366 최소 성능 백분율: 100 최소 스로틀 백분율: 11","0 그룹의 6 프로세서의 전원 관리 기능 정보:
+
+유휴 상태 유형: Micro Power Engine Plugin(11 상태)
+
+성능 상태 유형: ACPI Collaborative Processor Performance Control
+정격 주파수(MHz): 1300
+최대 성능 백분율: 366
+최소 성능 백분율: 100
+최소 스로틀 백분율: 11"
+"PAP55002588NO02","System","55","정보","Microsoft-Windows-Kernel-Processor-Power","2026-03-24 10:15:55","456670","PAP55002588NO02","0 그룹의 5 프로세서의 전원 관리 기능 정보: 유휴 상태 유형: Micro Power Engine Plugin(11 상태) 성능 상태 유형: ACPI Collaborative Processor Performance Control 정격 주파수(MHz): 1300 최대 성능 백분율: 366 최소 성능 백분율: 100 최소 스로틀 백분율: 11","0 그룹의 5 프로세서의 전원 관리 기능 정보:
+
+유휴 상태 유형: Micro Power Engine Plugin(11 상태)
+
+성능 상태 유형: ACPI Collaborative Processor Performance Control
+정격 주파수(MHz): 1300
+최대 성능 백분율: 366
+최소 성능 백분율: 100
+최소 스로틀 백분율: 11"
+"PAP55002588NO02","System","55","정보","Microsoft-Windows-Kernel-Processor-Power","2026-03-24 10:15:55","456669","PAP55002588NO02","0 그룹의 4 프로세서의 전원 관리 기능 정보: 유휴 상태 유형: Micro Power Engine Plugin(11 상태) 성능 상태 유형: ACPI Collaborative Processor Performance Control 정격 주파수(MHz): 1300 최대 성능 백분율: 366 최소 성능 백분율: 100 최소 스로틀 백분율: 11","0 그룹의 4 프로세서의 전원 관리 기능 정보:
+
+유휴 상태 유형: Micro Power Engine Plugin(11 상태)
+
+성능 상태 유형: ACPI Collaborative Processor Performance Control
+정격 주파수(MHz): 1300
+최대 성능 백분율: 366
+최소 성능 백분율: 100
+최소 스로틀 백분율: 11"
+"PAP55002588NO02","System","55","정보","Microsoft-Windows-Kernel-Processor-Power","2026-03-24 10:15:55","456668","PAP55002588NO02","0 그룹의 3 프로세서의 전원 관리 기능 정보: 유휴 상태 유형: Micro Power Engine Plugin(11 상태) 성능 상태 유형: ACPI Collaborative Processor Performance Control 정격 주파수(MHz): 1300 최대 성능 백분율: 350 최소 성능 백분율: 100 최소 스로틀 백분율: 6","0 그룹의 3 프로세서의 전원 관리 기능 정보:
+
+유휴 상태 유형: Micro Power Engine Plugin(11 상태)
+
+성능 상태 유형: ACPI Collaborative Processor Performance Control
+정격 주파수(MHz): 1300
+최대 성능 백분율: 350
+최소 성능 백분율: 100
+최소 스로틀 백분율: 6"
+"PAP55002588NO02","System","55","정보","Microsoft-Windows-Kernel-Processor-Power","2026-03-24 10:15:55","456667","PAP55002588NO02","0 그룹의 2 프로세서의 전원 관리 기능 정보: 유휴 상태 유형: Micro Power Engine Plugin(11 상태) 성능 상태 유형: ACPI Collaborative Processor Performance Control 정격 주파수(MHz): 1300 최대 성능 백분율: 350 최소 성능 백분율: 100 최소 스로틀 백분율: 6","0 그룹의 2 프로세서의 전원 관리 기능 정보:
+
+유휴 상태 유형: Micro Power Engine Plugin(11 상태)
+
+성능 상태 유형: ACPI Collaborative Processor Performance Control
+정격 주파수(MHz): 1300
+최대 성능 백분율: 350
+최소 성능 백분율: 100
+최소 스로틀 백분율: 6"
+"PAP55002588NO02","System","55","정보","Microsoft-Windows-Kernel-Processor-Power","2026-03-24 10:15:55","456666","PAP55002588NO02","0 그룹의 1 프로세서의 전원 관리 기능 정보: 유휴 상태 유형: Micro Power Engine Plugin(11 상태) 성능 상태 유형: ACPI Collaborative Processor Performance Control 정격 주파수(MHz): 1300 최대 성능 백분율: 350 최소 성능 백분율: 100 최소 스로틀 백분율: 6","0 그룹의 1 프로세서의 전원 관리 기능 정보:
+
+유휴 상태 유형: Micro Power Engine Plugin(11 상태)
+
+성능 상태 유형: ACPI Collaborative Processor Performance Control
+정격 주파수(MHz): 1300
+최대 성능 백분율: 350
+최소 성능 백분율: 100
+최소 스로틀 백분율: 6"
+"PAP55002588NO02","System","55","정보","Microsoft-Windows-Kernel-Processor-Power","2026-03-24 10:15:55","456665","PAP55002588NO02","0 그룹의 0 프로세서의 전원 관리 기능 정보: 유휴 상태 유형: Micro Power Engine Plugin(11 상태) 성능 상태 유형: ACPI Collaborative Processor Performance Control 정격 주파수(MHz): 1300 최대 성능 백분율: 350 최소 성능 백분율: 37 최소 스로틀 백분율: 6","0 그룹의 0 프로세서의 전원 관리 기능 정보:
+
+유휴 상태 유형: Micro Power Engine Plugin(11 상태)
+
+성능 상태 유형: ACPI Collaborative Processor Performance Control
+정격 주파수(MHz): 1300
+최대 성능 백분율: 350
+최소 성능 백분율: 37
+최소 스로틀 백분율: 6"
+"PAP55002588NO02","System","98","정보","Microsoft-Windows-Ntfs","2026-03-24 10:15:53","456661","PAP55002588NO02","볼륨 \\?\Volume{986a9eda-24e9-480f-aa08-8b167e755072} (\Device\HarddiskVolume4) 정상입니다. 작업이 필요 없습니다.","볼륨 \\?\Volume{986a9eda-24e9-480f-aa08-8b167e755072} (\Device\HarddiskVolume4) 정상입니다. 작업이 필요 없습니다."
+"PAP55002588NO02","System","98","정보","Microsoft-Windows-Ntfs","2026-03-24 10:15:48","456630","PAP55002588NO02","볼륨 C: (\Device\HarddiskVolume3) 정상입니다. 작업이 필요 없습니다.","볼륨 C: (\Device\HarddiskVolume3) 정상입니다. 작업이 필요 없습니다."
+"PAP55002588NO02","System","129","정보","Microsoft-Windows-Hyper-V-Hypervisor","2026-03-24 10:15:46","456616","PAP55002588NO02","하이퍼바이저가 I/O remapping. 하드웨어를 초기화했습니다. true 하드웨어 사용: true 정책: 0x0 사용 기능: 0x43 내부 정보: 0x0 문제: 0x0 추가 정보: 0x0","하이퍼바이저가 I/O remapping.
+
+하드웨어를 초기화했습니다. true
+하드웨어 사용: true
+정책: 0x0
+사용 기능: 0x43
+내부 정보: 0x0
+문제: 0x0
+추가 정보: 0x0"
+"PAP55002588NO02","System","153","정보","Microsoft-Windows-Kernel-Boot","2026-03-24 10:15:46","456606","PAP55002588NO02","가상화 기반 보안(정책: VBS Enabled,VSM Required,Hvci,Boot Chain Signer Soft Enforced)은 enabled due to VBS registry configuration입니다.","가상화 기반 보안(정책: VBS Enabled,VSM Required,Hvci,Boot Chain Signer Soft Enforced)은 enabled due to VBS registry configuration입니다."
+"PAP55002588NO02","System","55","정보","Microsoft-Windows-Kernel-Processor-Power","2026-03-24 08:23:44","456306","PAP55002588NO02","0 그룹의 11 프로세서의 전원 관리 기능 정보: 유휴 상태 유형: Micro Power Engine Plugin(11 상태) 성능 상태 유형: ACPI Collaborative Processor Performance Control 정격 주파수(MHz): 1300 최대 성능 백분율: 366 최소 성능 백분율: 100 최소 스로틀 백분율: 11","0 그룹의 11 프로세서의 전원 관리 기능 정보:
+
+유휴 상태 유형: Micro Power Engine Plugin(11 상태)
+
+성능 상태 유형: ACPI Collaborative Processor Performance Control
+정격 주파수(MHz): 1300
+최대 성능 백분율: 366
+최소 성능 백분율: 100
+최소 스로틀 백분율: 11"
+"PAP55002588NO02","System","55","정보","Microsoft-Windows-Kernel-Processor-Power","2026-03-24 08:23:44","456305","PAP55002588NO02","0 그룹의 10 프로세서의 전원 관리 기능 정보: 유휴 상태 유형: Micro Power Engine Plugin(11 상태) 성능 상태 유형: ACPI Collaborative Processor Performance Control 정격 주파수(MHz): 1300 최대 성능 백분율: 366 최소 성능 백분율: 100 최소 스로틀 백분율: 11","0 그룹의 10 프로세서의 전원 관리 기능 정보:
+
+유휴 상태 유형: Micro Power Engine Plugin(11 상태)
+
+성능 상태 유형: ACPI Collaborative Processor Performance Control
+정격 주파수(MHz): 1300
+최대 성능 백분율: 366
+최소 성능 백분율: 100
+최소 스로틀 백분율: 11"
+"PAP55002588NO02","System","55","정보","Microsoft-Windows-Kernel-Processor-Power","2026-03-24 08:23:44","456304","PAP55002588NO02","0 그룹의 9 프로세서의 전원 관리 기능 정보: 유휴 상태 유형: Micro Power Engine Plugin(11 상태) 성능 상태 유형: ACPI Collaborative Processor Performance Control 정격 주파수(MHz): 1300 최대 성능 백분율: 366 최소 성능 백분율: 100 최소 스로틀 백분율: 11","0 그룹의 9 프로세서의 전원 관리 기능 정보:
+
+유휴 상태 유형: Micro Power Engine Plugin(11 상태)
+
+성능 상태 유형: ACPI Collaborative Processor Performance Control
+정격 주파수(MHz): 1300
+최대 성능 백분율: 366
+최소 성능 백분율: 100
+최소 스로틀 백분율: 11"
+"PAP55002588NO02","System","55","정보","Microsoft-Windows-Kernel-Processor-Power","2026-03-24 08:23:44","456303","PAP55002588NO02","0 그룹의 8 프로세서의 전원 관리 기능 정보: 유휴 상태 유형: Micro Power Engine Plugin(11 상태) 성능 상태 유형: ACPI Collaborative Processor Performance Control 정격 주파수(MHz): 1300 최대 성능 백분율: 366 최소 성능 백분율: 100 최소 스로틀 백분율: 11","0 그룹의 8 프로세서의 전원 관리 기능 정보:
+
+유휴 상태 유형: Micro Power Engine Plugin(11 상태)
+
+성능 상태 유형: ACPI Collaborative Processor Performance Control
+정격 주파수(MHz): 1300
+최대 성능 백분율: 366
+최소 성능 백분율: 100
+최소 스로틀 백분율: 11"
+"PAP55002588NO02","System","55","정보","Microsoft-Windows-Kernel-Processor-Power","2026-03-24 08:23:44","456302","PAP55002588NO02","0 그룹의 7 프로세서의 전원 관리 기능 정보: 유휴 상태 유형: Micro Power Engine Plugin(11 상태) 성능 상태 유형: ACPI Collaborative Processor Performance Control 정격 주파수(MHz): 1300 최대 성능 백분율: 366 최소 성능 백분율: 100 최소 스로틀 백분율: 11","0 그룹의 7 프로세서의 전원 관리 기능 정보:
+
+유휴 상태 유형: Micro Power Engine Plugin(11 상태)
+
+성능 상태 유형: ACPI Collaborative Processor Performance Control
+정격 주파수(MHz): 1300
+최대 성능 백분율: 366
+최소 성능 백분율: 100
+최소 스로틀 백분율: 11"
+"PAP55002588NO02","System","55","정보","Microsoft-Windows-Kernel-Processor-Power","2026-03-24 08:23:44","456301","PAP55002588NO02","0 그룹의 6 프로세서의 전원 관리 기능 정보: 유휴 상태 유형: Micro Power Engine Plugin(11 상태) 성능 상태 유형: ACPI Collaborative Processor Performance Control 정격 주파수(MHz): 1300 최대 성능 백분율: 366 최소 성능 백분율: 100 최소 스로틀 백분율: 11","0 그룹의 6 프로세서의 전원 관리 기능 정보:
+
+유휴 상태 유형: Micro Power Engine Plugin(11 상태)
+
+성능 상태 유형: ACPI Collaborative Processor Performance Control
+정격 주파수(MHz): 1300
+최대 성능 백분율: 366
+최소 성능 백분율: 100
+최소 스로틀 백분율: 11"
+"PAP55002588NO02","System","55","정보","Microsoft-Windows-Kernel-Processor-Power","2026-03-24 08:23:44","456300","PAP55002588NO02","0 그룹의 5 프로세서의 전원 관리 기능 정보: 유휴 상태 유형: Micro Power Engine Plugin(11 상태) 성능 상태 유형: ACPI Collaborative Processor Performance Control 정격 주파수(MHz): 1300 최대 성능 백분율: 366 최소 성능 백분율: 100 최소 스로틀 백분율: 11","0 그룹의 5 프로세서의 전원 관리 기능 정보:
+
+유휴 상태 유형: Micro Power Engine Plugin(11 상태)
+
+성능 상태 유형: ACPI Collaborative Processor Performance Control
+정격 주파수(MHz): 1300
+최대 성능 백분율: 366
+최소 성능 백분율: 100
+최소 스로틀 백분율: 11"
+"PAP55002588NO02","System","55","정보","Microsoft-Windows-Kernel-Processor-Power","2026-03-24 08:23:44","456299","PAP55002588NO02","0 그룹의 4 프로세서의 전원 관리 기능 정보: 유휴 상태 유형: Micro Power Engine Plugin(11 상태) 성능 상태 유형: ACPI Collaborative Processor Performance Control 정격 주파수(MHz): 1300 최대 성능 백분율: 366 최소 성능 백분율: 100 최소 스로틀 백분율: 11","0 그룹의 4 프로세서의 전원 관리 기능 정보:
+
+유휴 상태 유형: Micro Power Engine Plugin(11 상태)
+
+성능 상태 유형: ACPI Collaborative Processor Performance Control
+정격 주파수(MHz): 1300
+최대 성능 백분율: 366
+최소 성능 백분율: 100
+최소 스로틀 백분율: 11"
+"PAP55002588NO02","System","55","정보","Microsoft-Windows-Kernel-Processor-Power","2026-03-24 08:23:44","456298","PAP55002588NO02","0 그룹의 3 프로세서의 전원 관리 기능 정보: 유휴 상태 유형: Micro Power Engine Plugin(11 상태) 성능 상태 유형: ACPI Collaborative Processor Performance Control 정격 주파수(MHz): 1300 최대 성능 백분율: 350 최소 성능 백분율: 100 최소 스로틀 백분율: 6","0 그룹의 3 프로세서의 전원 관리 기능 정보:
+
+유휴 상태 유형: Micro Power Engine Plugin(11 상태)
+
+성능 상태 유형: ACPI Collaborative Processor Performance Control
+정격 주파수(MHz): 1300
+최대 성능 백분율: 350
+최소 성능 백분율: 100
+최소 스로틀 백분율: 6"
+"PAP55002588NO02","System","55","정보","Microsoft-Windows-Kernel-Processor-Power","2026-03-24 08:23:44","456297","PAP55002588NO02","0 그룹의 2 프로세서의 전원 관리 기능 정보: 유휴 상태 유형: Micro Power Engine Plugin(11 상태) 성능 상태 유형: ACPI Collaborative Processor Performance Control 정격 주파수(MHz): 1300 최대 성능 백분율: 350 최소 성능 백분율: 100 최소 스로틀 백분율: 6","0 그룹의 2 프로세서의 전원 관리 기능 정보:
+
+유휴 상태 유형: Micro Power Engine Plugin(11 상태)
+
+성능 상태 유형: ACPI Collaborative Processor Performance Control
+정격 주파수(MHz): 1300
+최대 성능 백분율: 350
+최소 성능 백분율: 100
+최소 스로틀 백분율: 6"
+"PAP55002588NO02","System","55","정보","Microsoft-Windows-Kernel-Processor-Power","2026-03-24 08:23:44","456296","PAP55002588NO02","0 그룹의 1 프로세서의 전원 관리 기능 정보: 유휴 상태 유형: Micro Power Engine Plugin(11 상태) 성능 상태 유형: ACPI Collaborative Processor Performance Control 정격 주파수(MHz): 1300 최대 성능 백분율: 350 최소 성능 백분율: 100 최소 스로틀 백분율: 6","0 그룹의 1 프로세서의 전원 관리 기능 정보:
+
+유휴 상태 유형: Micro Power Engine Plugin(11 상태)
+
+성능 상태 유형: ACPI Collaborative Processor Performance Control
+정격 주파수(MHz): 1300
+최대 성능 백분율: 350
+최소 성능 백분율: 100
+최소 스로틀 백분율: 6"
+"PAP55002588NO02","System","55","정보","Microsoft-Windows-Kernel-Processor-Power","2026-03-24 08:23:44","456295","PAP55002588NO02","0 그룹의 0 프로세서의 전원 관리 기능 정보: 유휴 상태 유형: Micro Power Engine Plugin(11 상태) 성능 상태 유형: ACPI Collaborative Processor Performance Control 정격 주파수(MHz): 1300 최대 성능 백분율: 350 최소 성능 백분율: 37 최소 스로틀 백분율: 6","0 그룹의 0 프로세서의 전원 관리 기능 정보:
+
+유휴 상태 유형: Micro Power Engine Plugin(11 상태)
+
+성능 상태 유형: ACPI Collaborative Processor Performance Control
+정격 주파수(MHz): 1300
+최대 성능 백분율: 350
+최소 성능 백분율: 37
+최소 스로틀 백분율: 6"
+"PAP55002588NO02","System","98","정보","Microsoft-Windows-Ntfs","2026-03-24 08:23:41","456291","PAP55002588NO02","볼륨 \\?\Volume{986a9eda-24e9-480f-aa08-8b167e755072} (\Device\HarddiskVolume4) 정상입니다. 작업이 필요 없습니다.","볼륨 \\?\Volume{986a9eda-24e9-480f-aa08-8b167e755072} (\Device\HarddiskVolume4) 정상입니다. 작업이 필요 없습니다."
+"PAP55002588NO02","System","98","정보","Microsoft-Windows-Ntfs","2026-03-24 08:23:40","456260","PAP55002588NO02","볼륨 C: (\Device\HarddiskVolume3) 정상입니다. 작업이 필요 없습니다.","볼륨 C: (\Device\HarddiskVolume3) 정상입니다. 작업이 필요 없습니다."
+"PAP55002588NO02","System","129","정보","Microsoft-Windows-Hyper-V-Hypervisor","2026-03-24 08:23:38","456246","PAP55002588NO02","하이퍼바이저가 I/O remapping. 하드웨어를 초기화했습니다. true 하드웨어 사용: true 정책: 0x0 사용 기능: 0x43 내부 정보: 0x0 문제: 0x0 추가 정보: 0x0","하이퍼바이저가 I/O remapping.
+
+하드웨어를 초기화했습니다. true
+하드웨어 사용: true
+정책: 0x0
+사용 기능: 0x43
+내부 정보: 0x0
+문제: 0x0
+추가 정보: 0x0"
+"PAP55002588NO02","System","153","정보","Microsoft-Windows-Kernel-Boot","2026-03-24 08:23:38","456236","PAP55002588NO02","가상화 기반 보안(정책: VBS Enabled,VSM Required,Hvci,Boot Chain Signer Soft Enforced)은 enabled due to VBS registry configuration입니다.","가상화 기반 보안(정책: VBS Enabled,VSM Required,Hvci,Boot Chain Signer Soft Enforced)은 enabled due to VBS registry configuration입니다."
+"PAP55002588NO02","System","55","정보","Microsoft-Windows-Kernel-Processor-Power","2026-03-23 17:24:59","456108","PAP55002588NO02","0 그룹의 11 프로세서의 전원 관리 기능 정보: 유휴 상태 유형: Micro Power Engine Plugin(11 상태) 성능 상태 유형: ACPI Collaborative Processor Performance Control 정격 주파수(MHz): 1300 최대 성능 백분율: 366 최소 성능 백분율: 100 최소 스로틀 백분율: 11","0 그룹의 11 프로세서의 전원 관리 기능 정보:
+
+유휴 상태 유형: Micro Power Engine Plugin(11 상태)
+
+성능 상태 유형: ACPI Collaborative Processor Performance Control
+정격 주파수(MHz): 1300
+최대 성능 백분율: 366
+최소 성능 백분율: 100
+최소 스로틀 백분율: 11"
+"PAP55002588NO02","System","55","정보","Microsoft-Windows-Kernel-Processor-Power","2026-03-23 17:24:59","456107","PAP55002588NO02","0 그룹의 10 프로세서의 전원 관리 기능 정보: 유휴 상태 유형: Micro Power Engine Plugin(11 상태) 성능 상태 유형: ACPI Collaborative Processor Performance Control 정격 주파수(MHz): 1300 최대 성능 백분율: 366 최소 성능 백분율: 100 최소 스로틀 백분율: 11","0 그룹의 10 프로세서의 전원 관리 기능 정보:
+
+유휴 상태 유형: Micro Power Engine Plugin(11 상태)
+
+성능 상태 유형: ACPI Collaborative Processor Performance Control
+정격 주파수(MHz): 1300
+최대 성능 백분율: 366
+최소 성능 백분율: 100
+최소 스로틀 백분율: 11"
+"PAP55002588NO02","System","55","정보","Microsoft-Windows-Kernel-Processor-Power","2026-03-23 17:24:59","456106","PAP55002588NO02","0 그룹의 9 프로세서의 전원 관리 기능 정보: 유휴 상태 유형: Micro Power Engine Plugin(11 상태) 성능 상태 유형: ACPI Collaborative Processor Performance Control 정격 주파수(MHz): 1300 최대 성능 백분율: 366 최소 성능 백분율: 100 최소 스로틀 백분율: 11","0 그룹의 9 프로세서의 전원 관리 기능 정보:
+
+유휴 상태 유형: Micro Power Engine Plugin(11 상태)
+
+성능 상태 유형: ACPI Collaborative Processor Performance Control
+정격 주파수(MHz): 1300
+최대 성능 백분율: 366
+최소 성능 백분율: 100
+최소 스로틀 백분율: 11"
+"PAP55002588NO02","System","55","정보","Microsoft-Windows-Kernel-Processor-Power","2026-03-23 17:24:59","456105","PAP55002588NO02","0 그룹의 8 프로세서의 전원 관리 기능 정보: 유휴 상태 유형: Micro Power Engine Plugin(11 상태) 성능 상태 유형: ACPI Collaborative Processor Performance Control 정격 주파수(MHz): 1300 최대 성능 백분율: 366 최소 성능 백분율: 100 최소 스로틀 백분율: 11","0 그룹의 8 프로세서의 전원 관리 기능 정보:
+
+유휴 상태 유형: Micro Power Engine Plugin(11 상태)
+
+성능 상태 유형: ACPI Collaborative Processor Performance Control
+정격 주파수(MHz): 1300
+최대 성능 백분율: 366
+최소 성능 백분율: 100
+최소 스로틀 백분율: 11"
+"PAP55002588NO02","System","55","정보","Microsoft-Windows-Kernel-Processor-Power","2026-03-23 17:24:59","456104","PAP55002588NO02","0 그룹의 7 프로세서의 전원 관리 기능 정보: 유휴 상태 유형: Micro Power Engine Plugin(11 상태) 성능 상태 유형: ACPI Collaborative Processor Performance Control 정격 주파수(MHz): 1300 최대 성능 백분율: 366 최소 성능 백분율: 100 최소 스로틀 백분율: 11","0 그룹의 7 프로세서의 전원 관리 기능 정보:
+
+유휴 상태 유형: Micro Power Engine Plugin(11 상태)
+
+성능 상태 유형: ACPI Collaborative Processor Performance Control
+정격 주파수(MHz): 1300
+최대 성능 백분율: 366
+최소 성능 백분율: 100
+최소 스로틀 백분율: 11"
+"PAP55002588NO02","System","55","정보","Microsoft-Windows-Kernel-Processor-Power","2026-03-23 17:24:59","456103","PAP55002588NO02","0 그룹의 6 프로세서의 전원 관리 기능 정보: 유휴 상태 유형: Micro Power Engine Plugin(11 상태) 성능 상태 유형: ACPI Collaborative Processor Performance Control 정격 주파수(MHz): 1300 최대 성능 백분율: 366 최소 성능 백분율: 100 최소 스로틀 백분율: 11","0 그룹의 6 프로세서의 전원 관리 기능 정보:
+
+유휴 상태 유형: Micro Power Engine Plugin(11 상태)
+
+성능 상태 유형: ACPI Collaborative Processor Performance Control
+정격 주파수(MHz): 1300
+최대 성능 백분율: 366
+최소 성능 백분율: 100
+최소 스로틀 백분율: 11"
+"PAP55002588NO02","System","55","정보","Microsoft-Windows-Kernel-Processor-Power","2026-03-23 17:24:59","456102","PAP55002588NO02","0 그룹의 5 프로세서의 전원 관리 기능 정보: 유휴 상태 유형: Micro Power Engine Plugin(11 상태) 성능 상태 유형: ACPI Collaborative Processor Performance Control 정격 주파수(MHz): 1300 최대 성능 백분율: 366 최소 성능 백분율: 100 최소 스로틀 백분율: 11","0 그룹의 5 프로세서의 전원 관리 기능 정보:
+
+유휴 상태 유형: Micro Power Engine Plugin(11 상태)
+
+성능 상태 유형: ACPI Collaborative Processor Performance Control
+정격 주파수(MHz): 1300
+최대 성능 백분율: 366
+최소 성능 백분율: 100
+최소 스로틀 백분율: 11"
+"PAP55002588NO02","System","55","정보","Microsoft-Windows-Kernel-Processor-Power","2026-03-23 17:24:59","456101","PAP55002588NO02","0 그룹의 4 프로세서의 전원 관리 기능 정보: 유휴 상태 유형: Micro Power Engine Plugin(11 상태) 성능 상태 유형: ACPI Collaborative Processor Performance Control 정격 주파수(MHz): 1300 최대 성능 백분율: 366 최소 성능 백분율: 100 최소 스로틀 백분율: 11","0 그룹의 4 프로세서의 전원 관리 기능 정보:
+
+유휴 상태 유형: Micro Power Engine Plugin(11 상태)
+
+성능 상태 유형: ACPI Collaborative Processor Performance Control
+정격 주파수(MHz): 1300
+최대 성능 백분율: 366
+최소 성능 백분율: 100
+최소 스로틀 백분율: 11"
+"PAP55002588NO02","System","55","정보","Microsoft-Windows-Kernel-Processor-Power","2026-03-23 17:24:59","456100","PAP55002588NO02","0 그룹의 3 프로세서의 전원 관리 기능 정보: 유휴 상태 유형: Micro Power Engine Plugin(11 상태) 성능 상태 유형: ACPI Collaborative Processor Performance Control 정격 주파수(MHz): 1300 최대 성능 백분율: 350 최소 성능 백분율: 100 최소 스로틀 백분율: 6","0 그룹의 3 프로세서의 전원 관리 기능 정보:
+
+유휴 상태 유형: Micro Power Engine Plugin(11 상태)
+
+성능 상태 유형: ACPI Collaborative Processor Performance Control
+정격 주파수(MHz): 1300
+최대 성능 백분율: 350
+최소 성능 백분율: 100
+최소 스로틀 백분율: 6"
+"PAP55002588NO02","System","55","정보","Microsoft-Windows-Kernel-Processor-Power","2026-03-23 17:24:59","456099","PAP55002588NO02","0 그룹의 2 프로세서의 전원 관리 기능 정보: 유휴 상태 유형: Micro Power Engine Plugin(11 상태) 성능 상태 유형: ACPI Collaborative Processor Performance Control 정격 주파수(MHz): 1300 최대 성능 백분율: 350 최소 성능 백분율: 100 최소 스로틀 백분율: 6","0 그룹의 2 프로세서의 전원 관리 기능 정보:
+
+유휴 상태 유형: Micro Power Engine Plugin(11 상태)
+
+성능 상태 유형: ACPI Collaborative Processor Performance Control
+정격 주파수(MHz): 1300
+최대 성능 백분율: 350
+최소 성능 백분율: 100
+최소 스로틀 백분율: 6"
+"PAP55002588NO02","System","55","정보","Microsoft-Windows-Kernel-Processor-Power","2026-03-23 17:24:59","456098","PAP55002588NO02","0 그룹의 1 프로세서의 전원 관리 기능 정보: 유휴 상태 유형: Micro Power Engine Plugin(11 상태) 성능 상태 유형: ACPI Collaborative Processor Performance Control 정격 주파수(MHz): 1300 최대 성능 백분율: 350 최소 성능 백분율: 100 최소 스로틀 백분율: 6","0 그룹의 1 프로세서의 전원 관리 기능 정보:
+
+유휴 상태 유형: Micro Power Engine Plugin(11 상태)
+
+성능 상태 유형: ACPI Collaborative Processor Performance Control
+정격 주파수(MHz): 1300
+최대 성능 백분율: 350
+최소 성능 백분율: 100
+최소 스로틀 백분율: 6"
+"PAP55002588NO02","System","55","정보","Microsoft-Windows-Kernel-Processor-Power","2026-03-23 17:24:59","456097","PAP55002588NO02","0 그룹의 0 프로세서의 전원 관리 기능 정보: 유휴 상태 유형: Micro Power Engine Plugin(11 상태) 성능 상태 유형: ACPI Collaborative Processor Performance Control 정격 주파수(MHz): 1300 최대 성능 백분율: 350 최소 성능 백분율: 37 최소 스로틀 백분율: 6","0 그룹의 0 프로세서의 전원 관리 기능 정보:
+
+유휴 상태 유형: Micro Power Engine Plugin(11 상태)
+
+성능 상태 유형: ACPI Collaborative Processor Performance Control
+정격 주파수(MHz): 1300
+최대 성능 백분율: 350
+최소 성능 백분율: 37
+최소 스로틀 백분율: 6"
+"PAP55002588NO02","System","98","정보","Microsoft-Windows-Ntfs","2026-03-23 17:24:56","456093","PAP55002588NO02","볼륨 \\?\Volume{986a9eda-24e9-480f-aa08-8b167e755072} (\Device\HarddiskVolume4) 정상입니다. 작업이 필요 없습니다.","볼륨 \\?\Volume{986a9eda-24e9-480f-aa08-8b167e755072} (\Device\HarddiskVolume4) 정상입니다. 작업이 필요 없습니다."
+"PAP55002588NO02","System","98","정보","Microsoft-Windows-Ntfs","2026-03-23 17:24:55","456062","PAP55002588NO02","볼륨 C: (\Device\HarddiskVolume3) 정상입니다. 작업이 필요 없습니다.","볼륨 C: (\Device\HarddiskVolume3) 정상입니다. 작업이 필요 없습니다."
+"PAP55002588NO02","System","129","정보","Microsoft-Windows-Hyper-V-Hypervisor","2026-03-23 17:24:53","456048","PAP55002588NO02","하이퍼바이저가 I/O remapping. 하드웨어를 초기화했습니다. true 하드웨어 사용: true 정책: 0x0 사용 기능: 0x43 내부 정보: 0x0 문제: 0x0 추가 정보: 0x0","하이퍼바이저가 I/O remapping.
+
+하드웨어를 초기화했습니다. true
+하드웨어 사용: true
+정책: 0x0
+사용 기능: 0x43
+내부 정보: 0x0
+문제: 0x0
+추가 정보: 0x0"
+"PAP55002588NO02","System","153","정보","Microsoft-Windows-Kernel-Boot","2026-03-23 17:24:53","456038","PAP55002588NO02","가상화 기반 보안(정책: VBS Enabled,VSM Required,Hvci,Boot Chain Signer Soft Enforced)은 enabled due to VBS registry configuration입니다.","가상화 기반 보안(정책: VBS Enabled,VSM Required,Hvci,Boot Chain Signer Soft Enforced)은 enabled due to VBS registry configuration입니다."
+"PAP55002588NO02","System","55","정보","Microsoft-Windows-Kernel-Processor-Power","2026-03-23 08:28:46","455449","PAP55002588NO02","0 그룹의 11 프로세서의 전원 관리 기능 정보: 유휴 상태 유형: Micro Power Engine Plugin(11 상태) 성능 상태 유형: ACPI Collaborative Processor Performance Control 정격 주파수(MHz): 1300 최대 성능 백분율: 366 최소 성능 백분율: 100 최소 스로틀 백분율: 11","0 그룹의 11 프로세서의 전원 관리 기능 정보:
+
+유휴 상태 유형: Micro Power Engine Plugin(11 상태)
+
+성능 상태 유형: ACPI Collaborative Processor Performance Control
+정격 주파수(MHz): 1300
+최대 성능 백분율: 366
+최소 성능 백분율: 100
+최소 스로틀 백분율: 11"
+"PAP55002588NO02","System","55","정보","Microsoft-Windows-Kernel-Processor-Power","2026-03-23 08:28:46","455448","PAP55002588NO02","0 그룹의 10 프로세서의 전원 관리 기능 정보: 유휴 상태 유형: Micro Power Engine Plugin(11 상태) 성능 상태 유형: ACPI Collaborative Processor Performance Control 정격 주파수(MHz): 1300 최대 성능 백분율: 366 최소 성능 백분율: 100 최소 스로틀 백분율: 11","0 그룹의 10 프로세서의 전원 관리 기능 정보:
+
+유휴 상태 유형: Micro Power Engine Plugin(11 상태)
+
+성능 상태 유형: ACPI Collaborative Processor Performance Control
+정격 주파수(MHz): 1300
+최대 성능 백분율: 366
+최소 성능 백분율: 100
+최소 스로틀 백분율: 11"
+"PAP55002588NO02","System","55","정보","Microsoft-Windows-Kernel-Processor-Power","2026-03-23 08:28:46","455447","PAP55002588NO02","0 그룹의 9 프로세서의 전원 관리 기능 정보: 유휴 상태 유형: Micro Power Engine Plugin(11 상태) 성능 상태 유형: ACPI Collaborative Processor Performance Control 정격 주파수(MHz): 1300 최대 성능 백분율: 366 최소 성능 백분율: 100 최소 스로틀 백분율: 11","0 그룹의 9 프로세서의 전원 관리 기능 정보:
+
+유휴 상태 유형: Micro Power Engine Plugin(11 상태)
+
+성능 상태 유형: ACPI Collaborative Processor Performance Control
+정격 주파수(MHz): 1300
+최대 성능 백분율: 366
+최소 성능 백분율: 100
+최소 스로틀 백분율: 11"
+"PAP55002588NO02","System","55","정보","Microsoft-Windows-Kernel-Processor-Power","2026-03-23 08:28:46","455446","PAP55002588NO02","0 그룹의 8 프로세서의 전원 관리 기능 정보: 유휴 상태 유형: Micro Power Engine Plugin(11 상태) 성능 상태 유형: ACPI Collaborative Processor Performance Control 정격 주파수(MHz): 1300 최대 성능 백분율: 366 최소 성능 백분율: 100 최소 스로틀 백분율: 11","0 그룹의 8 프로세서의 전원 관리 기능 정보:
+
+유휴 상태 유형: Micro Power Engine Plugin(11 상태)
+
+성능 상태 유형: ACPI Collaborative Processor Performance Control
+정격 주파수(MHz): 1300
+최대 성능 백분율: 366
+최소 성능 백분율: 100
+최소 스로틀 백분율: 11"
+"PAP55002588NO02","System","55","정보","Microsoft-Windows-Kernel-Processor-Power","2026-03-23 08:28:46","455445","PAP55002588NO02","0 그룹의 7 프로세서의 전원 관리 기능 정보: 유휴 상태 유형: Micro Power Engine Plugin(11 상태) 성능 상태 유형: ACPI Collaborative Processor Performance Control 정격 주파수(MHz): 1300 최대 성능 백분율: 366 최소 성능 백분율: 100 최소 스로틀 백분율: 11","0 그룹의 7 프로세서의 전원 관리 기능 정보:
+
+유휴 상태 유형: Micro Power Engine Plugin(11 상태)
+
+성능 상태 유형: ACPI Collaborative Processor Performance Control
+정격 주파수(MHz): 1300
+최대 성능 백분율: 366
+최소 성능 백분율: 100
+최소 스로틀 백분율: 11"
+"PAP55002588NO02","System","55","정보","Microsoft-Windows-Kernel-Processor-Power","2026-03-23 08:28:46","455444","PAP55002588NO02","0 그룹의 6 프로세서의 전원 관리 기능 정보: 유휴 상태 유형: Micro Power Engine Plugin(11 상태) 성능 상태 유형: ACPI Collaborative Processor Performance Control 정격 주파수(MHz): 1300 최대 성능 백분율: 366 최소 성능 백분율: 100 최소 스로틀 백분율: 11","0 그룹의 6 프로세서의 전원 관리 기능 정보:
+
+유휴 상태 유형: Micro Power Engine Plugin(11 상태)
+
+성능 상태 유형: ACPI Collaborative Processor Performance Control
+정격 주파수(MHz): 1300
+최대 성능 백분율: 366
+최소 성능 백분율: 100
+최소 스로틀 백분율: 11"
+"PAP55002588NO02","System","55","정보","Microsoft-Windows-Kernel-Processor-Power","2026-03-23 08:28:46","455443","PAP55002588NO02","0 그룹의 5 프로세서의 전원 관리 기능 정보: 유휴 상태 유형: Micro Power Engine Plugin(11 상태) 성능 상태 유형: ACPI Collaborative Processor Performance Control 정격 주파수(MHz): 1300 최대 성능 백분율: 366 최소 성능 백분율: 100 최소 스로틀 백분율: 11","0 그룹의 5 프로세서의 전원 관리 기능 정보:
+
+유휴 상태 유형: Micro Power Engine Plugin(11 상태)
+
+성능 상태 유형: ACPI Collaborative Processor Performance Control
+정격 주파수(MHz): 1300
+최대 성능 백분율: 366
+최소 성능 백분율: 100
+최소 스로틀 백분율: 11"
+"PAP55002588NO02","System","55","정보","Microsoft-Windows-Kernel-Processor-Power","2026-03-23 08:28:46","455442","PAP55002588NO02","0 그룹의 4 프로세서의 전원 관리 기능 정보: 유휴 상태 유형: Micro Power Engine Plugin(11 상태) 성능 상태 유형: ACPI Collaborative Processor Performance Control 정격 주파수(MHz): 1300 최대 성능 백분율: 366 최소 성능 백분율: 100 최소 스로틀 백분율: 11","0 그룹의 4 프로세서의 전원 관리 기능 정보:
+
+유휴 상태 유형: Micro Power Engine Plugin(11 상태)
+
+성능 상태 유형: ACPI Collaborative Processor Performance Control
+정격 주파수(MHz): 1300
+최대 성능 백분율: 366
+최소 성능 백분율: 100
+최소 스로틀 백분율: 11"
+"PAP55002588NO02","System","55","정보","Microsoft-Windows-Kernel-Processor-Power","2026-03-23 08:28:46","455441","PAP55002588NO02","0 그룹의 3 프로세서의 전원 관리 기능 정보: 유휴 상태 유형: Micro Power Engine Plugin(11 상태) 성능 상태 유형: ACPI Collaborative Processor Performance Control 정격 주파수(MHz): 1300 최대 성능 백분율: 350 최소 성능 백분율: 100 최소 스로틀 백분율: 6","0 그룹의 3 프로세서의 전원 관리 기능 정보:
+
+유휴 상태 유형: Micro Power Engine Plugin(11 상태)
+
+성능 상태 유형: ACPI Collaborative Processor Performance Control
+정격 주파수(MHz): 1300
+최대 성능 백분율: 350
+최소 성능 백분율: 100
+최소 스로틀 백분율: 6"
+"PAP55002588NO02","System","55","정보","Microsoft-Windows-Kernel-Processor-Power","2026-03-23 08:28:46","455440","PAP55002588NO02","0 그룹의 2 프로세서의 전원 관리 기능 정보: 유휴 상태 유형: Micro Power Engine Plugin(11 상태) 성능 상태 유형: ACPI Collaborative Processor Performance Control 정격 주파수(MHz): 1300 최대 성능 백분율: 350 최소 성능 백분율: 100 최소 스로틀 백분율: 6","0 그룹의 2 프로세서의 전원 관리 기능 정보:
+
+유휴 상태 유형: Micro Power Engine Plugin(11 상태)
+
+성능 상태 유형: ACPI Collaborative Processor Performance Control
+정격 주파수(MHz): 1300
+최대 성능 백분율: 350
+최소 성능 백분율: 100
+최소 스로틀 백분율: 6"
+"PAP55002588NO02","System","55","정보","Microsoft-Windows-Kernel-Processor-Power","2026-03-23 08:28:46","455439","PAP55002588NO02","0 그룹의 1 프로세서의 전원 관리 기능 정보: 유휴 상태 유형: Micro Power Engine Plugin(11 상태) 성능 상태 유형: ACPI Collaborative Processor Performance Control 정격 주파수(MHz): 1300 최대 성능 백분율: 350 최소 성능 백분율: 100 최소 스로틀 백분율: 6","0 그룹의 1 프로세서의 전원 관리 기능 정보:
+
+유휴 상태 유형: Micro Power Engine Plugin(11 상태)
+
+성능 상태 유형: ACPI Collaborative Processor Performance Control
+정격 주파수(MHz): 1300
+최대 성능 백분율: 350
+최소 성능 백분율: 100
+최소 스로틀 백분율: 6"
+"PAP55002588NO02","System","55","정보","Microsoft-Windows-Kernel-Processor-Power","2026-03-23 08:28:46","455438","PAP55002588NO02","0 그룹의 0 프로세서의 전원 관리 기능 정보: 유휴 상태 유형: Micro Power Engine Plugin(11 상태) 성능 상태 유형: ACPI Collaborative Processor Performance Control 정격 주파수(MHz): 1300 최대 성능 백분율: 350 최소 성능 백분율: 37 최소 스로틀 백분율: 6","0 그룹의 0 프로세서의 전원 관리 기능 정보:
+
+유휴 상태 유형: Micro Power Engine Plugin(11 상태)
+
+성능 상태 유형: ACPI Collaborative Processor Performance Control
+정격 주파수(MHz): 1300
+최대 성능 백분율: 350
+최소 성능 백분율: 37
+최소 스로틀 백분율: 6"
+"PAP55002588NO02","System","98","정보","Microsoft-Windows-Ntfs","2026-03-23 08:28:42","455429","PAP55002588NO02","볼륨 \\?\Volume{986a9eda-24e9-480f-aa08-8b167e755072} (\Device\HarddiskVolume4) 정상입니다. 작업이 필요 없습니다.","볼륨 \\?\Volume{986a9eda-24e9-480f-aa08-8b167e755072} (\Device\HarddiskVolume4) 정상입니다. 작업이 필요 없습니다."
+"PAP55002588NO02","System","98","정보","Microsoft-Windows-Ntfs","2026-03-23 08:28:42","455380","PAP55002588NO02","볼륨 C: (\Device\HarddiskVolume3) 정상입니다. 작업이 필요 없습니다.","볼륨 C: (\Device\HarddiskVolume3) 정상입니다. 작업이 필요 없습니다."
+"PAP55002588NO02","System","129","정보","Microsoft-Windows-Hyper-V-Hypervisor","2026-03-23 08:28:40","455366","PAP55002588NO02","하이퍼바이저가 I/O remapping. 하드웨어를 초기화했습니다. true 하드웨어 사용: true 정책: 0x0 사용 기능: 0x43 내부 정보: 0x0 문제: 0x0 추가 정보: 0x0","하이퍼바이저가 I/O remapping.
+
+하드웨어를 초기화했습니다. true
+하드웨어 사용: true
+정책: 0x0
+사용 기능: 0x43
+내부 정보: 0x0
+문제: 0x0
+추가 정보: 0x0"
+"PAP55002588NO02","System","153","정보","Microsoft-Windows-Kernel-Boot","2026-03-23 08:28:40","455356","PAP55002588NO02","가상화 기반 보안(정책: VBS Enabled,VSM Required,Hvci,Boot Chain Signer Soft Enforced)은 enabled due to VBS registry configuration입니다.","가상화 기반 보안(정책: VBS Enabled,VSM Required,Hvci,Boot Chain Signer Soft Enforced)은 enabled due to VBS registry configuration입니다."
