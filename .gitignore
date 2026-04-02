@@ -1,0 +1,26 @@
+# Model weight files (too large for GitHub)
+*.safetensors
+*.bin
+*.pt
+*.pth
+*.ckpt
+*.gguf
+
+# Incomplete LFS downloads
+.git/lfs/
+
+# Windows system files
+NTUSER.DAT*
+ntuser.*
+desktop.ini
+*.LOG1
+*.LOG2
+*.TM.blf
+*.regtrans-ms
+
+# Other large/personal files
+AppData/
+node_modules/
+OneDrive*/
+[AhnLab]*
+*.tar
